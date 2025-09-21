@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="card">
+  <h2>
+    Top {{ k }} for {{ user_id }}
+    ({{ model|upper }}{% if input_topic %} • seed: {{ input_topic }}{% endif %})
+  </h2>
+
+  {% if rows|length == 0 %}
+    <p>No recommendations found. Try a different user/seed.</p>
+    <p><a href="/">← Back</a></p>
+  {% else %}
+    <table>
+      <thead>
+        <tr>
+          <th>#</th>
+          {% if model == "hybrid" %}
+            {% if rows[0].get("subject") %}<th>Subject</th>{% endif %}
+            <th>Topic</th>
+            {% if rows[0].get("input_topic") %}<th>From Input Topic</th>{% endif %}
+            {% if rows[0].get("difficulty") %}<th>Difficulty</th>{% endif %}
+            {% if rows[0].get("content_score") %}<th>Content</th>{% endif %}
+            {% if rows[0].get("cf_score") %}<th>CF</th>{% endif %}
+            {% if rows[0].get("hybrid_score") %}<th>Hybrid</th>{% endif %}
+          {% else %}
+            <th>Topic</th>
+            <th>Predicted</th>
+          {% endif %}
+        </tr>
+      </thead>
+      <tbody>
+        {% for r in rows %}
+          <tr>
+            <td>{{ loop.index }}</td>
+            {% if model == "hybrid" %}
+              {% if r.get("subject") %}<td>{{ r.subject }}</td>{% endif %}
+              <td>{{ r.topic_name }}</td>
+              {% if r.get("input_topic") %}<td>{{ r.input_topic }}</td>{% endif %}
+              {% if r.get("difficulty") %}<td><span class="pill {{ r.difficulty|lower }}">{{ r.difficulty }}</span></td>{% endif %}
+              {% if r.get("content_score") %}<td>{{ "%.3f"|format(r.content_score|float) }}</td>{% endif %}
+              {% if r.get("cf_score") %}<td>{{ "%.3f"|format(r.cf_score|float) }}</td>{% endif %}
+              {% if r.get("hybrid_score") %}<td>{{ "%.3f"|format(r.hybrid_score|float) }}</td>{% endif %}
+            {% else %}
+              <td>{{ r.topic_name }}</td>
+              <td>{{ "%.3f"|format(r.predicted_score|float) }}</td>
+            {% endif %}
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    <p><a href="/">← Back</a></p>
+  {% endif %}
+</section>
+{% endblock %}

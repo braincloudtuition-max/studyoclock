@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="card">
+  <h2>Browse Recommendations</h2>
+
+  <!-- Step 1: choose user/model to populate seed topics for HYBRID -->
+  <form class="form-grid" method="get" action="/">
+    <label>
+      User
+      <select name="user_id">
+        <option value="">(choose a user)</option>
+        {% for u in users %}
+          <option value="{{ u }}" {% if selected_user==u %}selected{% endif %}>{{ u }}</option>
+        {% endfor %}
+      </select>
+    </label>
+    <label>
+      Model
+      <select name="model">
+        {% for m in models %}
+          <option value="{{ m }}" {% if selected_model==m %}selected{% endif %}>{{ m|upper }}</option>
+        {% endfor %}
+      </select>
+    </label>
+    <div class="actions">
+      <button type="submit">Load options</button>
+    </div>
+  </form>
+
+  <!-- Step 2: go to /recs -->
+  <form class="form-grid" method="get" action="/recs" style="margin-top:10px">
+    <input type="hidden" name="user_id" value="{{ selected_user or '' }}">
+    <label>
+      Model
+      <select name="model">
+        {% for m in models %}
+          <option value="{{ m }}" {% if selected_model==m %}selected{% endif %}>{{ m|upper }}</option>
+        {% endfor %}
+      </select>
+    </label>
+
+    {% if selected_model == "hybrid" %}
+      <label>
+        Seed Topic (input_topic)
+        <select name="input_topic">
+          {% if seed_topics and seed_topics|length > 0 %}
+            {% for t in seed_topics %}
+              <option value="{{ t }}">{{ t }}</option>
+            {% endfor %}
+          {% else %}
+            <option value="">(select user and click "Load options")</option>
+          {% endif %}
+        </select>
+      </label>
+    {% endif %}
+
+    <label>
+      Top-K
+      <input type="number" name="k" min="1" max="50" value="5">
+    </label>
+    <div class="actions">
+      <button type="submit">Show</button>
+    </div>
+  </form>
+</section>
+{% endblock %}

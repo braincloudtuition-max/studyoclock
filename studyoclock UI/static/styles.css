@@ -1,0 +1,19 @@
+:root { --bg:#0b2433; --card:#1c2541; --text:#e6e6e6; --muted:#a8b2d1; --accent:#5bc0be; }
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--text);font:16px/1.5 system-ui, -apple-system, Segoe UI, Roboto}
+header{padding:24px 16px; text-align:center;}
+h1{margin:0 0 4px 0;} .subtitle{margin:0;color:var(--muted)}
+main{max-width:900px;margin:0 auto;padding:16px}
+.card{background:var(--card);padding:16px;border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.25)}
+.form-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin-top:12px}
+label{display:flex;flex-direction:column;gap:6px;color:var(--muted)}
+input,select,button{padding:10px;border-radius:8px;border:1px solid transparent}
+button{background:var(--accent);color:#072a2d;cursor:pointer;font-weight:600}
+table{width:100%;border-collapse:collapse;margin-top:12px}
+th,td{padding:10px;border-bottom:1px solid rgba(255,255,255,.08);text-align:left}
+th{color:var(--muted);font-weight:600}
+.pill{padding:4px 10px;border-radius:999px;font-size:.85rem}
+.pill.easy{background:#2b9348;color:#eaffea}
+.pill.medium{background:#f9c74f;color:#2c2c2c}
+.pill.hard{background:#f94144;color:#fff}
+.actions{display:flex;align-items:end}
+a{color:var(--accent);text-decoration:none}
