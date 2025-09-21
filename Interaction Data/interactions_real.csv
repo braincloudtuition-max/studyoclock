@@ -1,0 +1,301 @@
+user_id,subject,topic_name,rating,timestamp
+user_1,ICT,Unit 8 Safety and Security,4,1755302429
+user_1,Business,Chapter 16 Marketing Strategy,3,1755269216
+user_1,Business,Chapter 13 The Marketing Mix,1,1755422586
+user_1,Biology,Unit 3 Movement in and out of cells,2,1755636804
+user_1,Business,Chapter 23 Income Statements,4,1755710187
+user_1,Business,Chapter 20 Location Decisions,1,1755798850
+user_1,Chemistry,Unit 17 Organic chemistry and petrochemicals,2,1756007941
+user_1,Biology,Unit 7 Animal Nutrition,5,1756006247
+user_1,Business,Chapter 21 Business Finance - Needs and Sources,3,1755436298
+user_1,Business,Chapter 7 Organisation and management,3,1755210281
+user_1,ICT,Unit 2 Input and Output Devices,4,1755572344
+user_1,Chemistry,"Unit 2 Atoms, Elements and Compounds",4,1755444216
+user_1,Chemistry,Unit 11 Making and identifying salts,1,1755932219
+user_1,Biology,Unit 8 Plant Transport,5,1755837611
+user_1,Chemistry,Unit 20 Natural Polymers,2,1755607074
+user_2,Biology,Unit 17 Inheritance,4,1755617460
+user_2,ICT,Unit 8 Safety and Security,5,1755813373
+user_2,Biology,Unit 2 Cells,2,1755414186
+user_2,Business,"Chapter 10 Marketing, Competition and the Customer",2,1755269895
+user_2,Biology,Unit 15 Drugs,4,1755217516
+user_2,Biology,Unit 13 Excretion,5,1755768802
+user_2,Business,Chapter 24 Balance Sheets,4,1755358772
+user_2,Biology,Unit 8 Plant Transport,5,1755623687
+user_2,Chemistry,Unit 9 Chemical Reactions,4,1755210307
+user_2,Biology,Unit 9 Transport in humans,1,1755185448
+user_2,Business,Chapter 23 Income Statements,2,1755523993
+user_2,Business,"Chapter 8 Recruitment, Selection and Training",1,1755916806
+user_2,Chemistry,Unit 1 Particles and Purification,1,1755077518
+user_2,Business,Chapter 14 The Marketing Mix,5,1755286710
+user_2,Biology,Unit 10 Diseases and Immunity,3,1755788100
+user_3,Chemistry,Unit 14 Metal Extraction,3,1755878476
+user_3,Business,"Chapter 3 Enterprise, Business Growth and Size",3,1755712971
+user_3,Chemistry,Unit 17 Organic chemistry and petrochemicals,2,1755067256
+user_3,ICT,Unit 5 The effects of using ICT,3,1756023349
+user_3,Biology,Unit 21 Human Influences on Ecosystems,1,1755507439
+user_3,Biology,Unit 5 Enzymes,4,1755087167
+user_3,Business,"Chapter 18 Costs, Scale of Production and Break-even",5,1755375482
+user_3,Business,Chapter 13 The Marketing Mix,3,1755267386
+user_3,Business,"Chapter 8 Recruitment, Selection and Training",2,1755715220
+user_3,Biology,Unit 9 Transport in humans,1,1755418168
+user_3,Business,Chapter 14 The Marketing Mix,5,1755474301
+user_3,Business,Chapter 27 Environmental and Ethical Issues,2,1755444667
+user_3,Chemistry,Unit 9 Chemical Reactions,4,1755355587
+user_3,Business,Chapter 6 Motivating Workers,5,1755092873
+user_3,Business,Chapter 11 Market Research,2,1755454630
+user_4,Chemistry,Unit 17 Organic chemistry and petrochemicals,4,1755871212
+user_4,Biology,Unit 9 Transport in humans,5,1755660452
+user_4,Biology,Unit 2 Cells,3,1755350005
+user_4,Biology,Unit 10 Diseases and Immunity,3,1755943640
+user_4,Chemistry,"Unit 2 Atoms, Elements and Compounds",2,1756036520
+user_4,Business,Chapter 1 Business Activity,1,1755501306
+user_4,Chemistry,Unit 12 The Periodic Table,1,1755674407
+user_4,ICT,Unit 5 The effects of using ICT,4,1755427444
+user_4,Chemistry,Unit 14 Metal Extraction,4,1755164834
+user_4,Business,Chapter 15 The Marketing Mix,4,1755323437
+user_4,ICT,Unit 2 Input and Output Devices,5,1755960360
+user_4,Chemistry,Unit 18 The Variety of Organic Chemicals,4,1755835693
+user_4,Biology,Unit 12 Respiration,2,1755999989
+user_4,Business,Chapter 2 Classification of Business,2,1755575520
+user_4,Chemistry,Unit 9 Chemical Reactions,1,1755554324
+user_5,Chemistry,Unit 9 Chemical Reactions,1,1755754531
+user_5,Business,Chapter 26 Government economic objectives and policies,4,1755766011
+user_5,ICT,Unit 7 Systems Analysis and Design,1,1755115007
+user_5,Biology,Unit 6 Plant Nutrition,4,1755404706
+user_5,Business,"Chapter 8 Recruitment, Selection and Training",3,1755625120
+user_5,Chemistry,Unit 20 Natural Polymers,5,1755629648
+user_5,Biology,Unit 15 Drugs,1,1756023880
+user_5,Business,Chapter 9 Internal and External Communication,1,1755626453
+user_5,Biology,Unit 10 Diseases and Immunity,4,1755319450
+user_5,Biology,Unit 17 Inheritance,4,1755078547
+user_5,Business,Chapter 13 The Marketing Mix,2,1755525643
+user_5,Chemistry,Unit 15 Air and Water,1,1755620238
+user_5,ICT,Unit 2 Input and Output Devices,5,1755189185
+user_5,Chemistry,Unit 18 The Variety of Organic Chemicals,5,1755515139
+user_5,Biology,Unit 11 Gas Exchange in Humans,1,1755624682
+user_6,ICT,Unit 7 Systems Analysis and Design,4,1755883684
+user_6,ICT,Unit 8 Safety and Security,4,1755336969
+user_6,Biology,Unit 1 Characteristics and Classification of Living Organisms,2,1755785964
+user_6,Business,"Chapter 3 Enterprise, Business Growth and Size",5,1755269496
+user_6,ICT,Unit 5 The effects of using ICT,1,1755731070
+user_6,Chemistry,Unit 1 Particles and Purification,2,1755340019
+user_6,Biology,Unit 20 Microorganisms and biotechnology,2,1755076732
+user_6,ICT,Unit 3 Storage Devices and Media,3,1755766005
+user_6,Chemistry,Unit 8 Speed of Reaction,3,1755981810
+user_6,Business,Chapter 11 Market Research,1,1755832188
+user_6,Business,Chapter 23 Income Statements,5,1755379224
+user_6,Biology,Unit 14 Coordination and Response,4,1755247645
+user_6,Biology,Unit 4 Biological Molecules,5,1755218308
+user_6,Business,Chapter 21 Business Finance - Needs and Sources,1,1755156053
+user_6,Chemistry,Unit 18 The Variety of Organic Chemicals,3,1755603751
+user_7,ICT,Unit 6 ICT Applications,2,1755974159
+user_7,Biology,Unit 13 Excretion,4,1755117493
+user_7,Chemistry,Unit 19 Polymers,3,1756019643
+user_7,Biology,Unit 11 Gas Exchange in Humans,4,1755833168
+user_7,Business,Chapter 23 Income Statements,5,1755455799
+user_7,Business,Chapter 11 Market Research,5,1755798020
+user_7,Chemistry,Unit 12 The Periodic Table,2,1755416622
+user_7,Chemistry,Unit 18 The Variety of Organic Chemicals,2,1755170101
+user_7,Biology,Unit 16 Reproduction,2,1755176617
+user_7,Chemistry,Unit 3 Structure and Bonding,4,1755358465
+user_7,Business,Chapter 24 Balance Sheets,4,1755447602
+user_7,Chemistry,Unit 9 Chemical Reactions,1,1755183369
+user_7,Business,Chapter 2 Classification of Business,2,1755994031
+user_7,Business,"Chapter 3 Enterprise, Business Growth and Size",5,1756041529
+user_7,Business,Chapter 17 Production of Goods and Services,4,1755566088
+user_8,Chemistry,Unit 1 Particles and Purification,5,1755055113
+user_8,Business,Chapter 11 Market Research,5,1755061997
+user_8,Biology,Unit 7 Animal Nutrition,5,1755901045
+user_8,Chemistry,Unit 8 Speed of Reaction,3,1755180575
+user_8,Biology,Unit 8 Plant Transport,1,1755266602
+user_8,Biology,Unit 20 Microorganisms and biotechnology,5,1755520316
+user_8,Biology,Unit 1 Characteristics and Classification of Living Organisms,1,1755530491
+user_8,Chemistry,Unit 13 Metals and Reactivity,3,1755880140
+user_8,Business,Chapter 12 The Marketing Mix,3,1756036374
+user_8,Business,"Chapter 3 Enterprise, Business Growth and Size",1,1755688175
+user_8,Business,Chapter 14 The Marketing Mix,3,1755823630
+user_8,Chemistry,Unit 20 Natural Polymers,4,1755721114
+user_8,Business,Chapter 24 Balance Sheets,4,1755396246
+user_8,Biology,Unit 3 Movement in and out of cells,2,1755506030
+user_8,Biology,Unit 14 Coordination and Response,5,1755536118
+user_9,Chemistry,Unit 16 The Chemical Industry,4,1755058966
+user_9,Chemistry,Unit 20 Natural Polymers,3,1755995455
+user_9,Business,Chapter 19 Achieving Quality Production,4,1755529890
+user_9,Business,Chapter 5 Business Objectives and Stakeholders,2,1755317488
+user_9,Business,Chapter 22 Cash flow forecasting and working capital,3,1755159946
+user_9,Biology,Unit 4 Biological Molecules,3,1755528099
+user_9,Business,Chapter 2 Classification of Business,2,1755976160
+user_9,ICT,Unit 5 The effects of using ICT,2,1755188754
+user_9,Biology,Unit 19 Organisms and their environment,4,1755617654
+user_9,Biology,Unit 16 Reproduction,3,1755403461
+user_9,ICT,Unit 3 Storage Devices and Media,3,1755891913
+user_9,Business,"Chapter 18 Costs, Scale of Production and Break-even",1,1755401522
+user_9,Chemistry,Unit 1 Particles and Purification,5,1755350438
+user_9,Chemistry,Unit 19 Polymers,2,1755724634
+user_9,Chemistry,Unit 11 Making and identifying salts,4,1755101513
+user_10,Business,Chapter 6 Motivating Workers,1,1755810586
+user_10,Biology,Unit 17 Inheritance,5,1755525465
+user_10,Chemistry,Unit 8 Speed of Reaction,2,1755986552
+user_10,Biology,Unit 18 Variation and selection,1,1755875674
+user_10,ICT,Unit 5 The effects of using ICT,4,1755900822
+user_10,Business,Chapter 13 The Marketing Mix,1,1755323246
+user_10,Chemistry,Unit 11 Making and identifying salts,2,1755069896
+user_10,Chemistry,Unit 16 The Chemical Industry,5,1755090392
+user_10,ICT,Unit 1 Types and Components of Computer Systems,4,1755424982
+user_10,Business,Chapter 19 Achieving Quality Production,4,1755207672
+user_10,ICT,Unit 8 Safety and Security,5,1755233613
+user_10,Chemistry,Unit 20 Natural Polymers,3,1755601671
+user_10,Biology,Unit 20 Microorganisms and biotechnology,5,1756036505
+user_10,Business,"Chapter 10 Marketing, Competition and the Customer",3,1755178425
+user_10,Business,"Chapter 8 Recruitment, Selection and Training",4,1755565639
+user_11,ICT,Unit 8 Safety and Security,5,1755170398
+user_11,Chemistry,Unit 9 Chemical Reactions,2,1755801730
+user_11,Business,Chapter 27 Environmental and Ethical Issues,1,1755671455
+user_11,Business,Chapter 6 Motivating Workers,2,1755559912
+user_11,Biology,Unit 15 Drugs,5,1755480139
+user_11,Business,Chapter 5 Business Objectives and Stakeholders,1,1755502890
+user_11,Business,Chapter 15 The Marketing Mix,4,1755120961
+user_11,Biology,Unit 5 Enzymes,1,1755358208
+user_11,Biology,Unit 10 Diseases and Immunity,1,1755278809
+user_11,Chemistry,Unit 15 Air and Water,5,1755426532
+user_11,Business,Chapter 23 Income Statements,4,1755441222
+user_11,Business,Chapter 25 Analysis of Accountants,5,1755406695
+user_11,Business,"Chapter 8 Recruitment, Selection and Training",5,1755629397
+user_11,Business,Chapter 7 Organisation and management,2,1755594381
+user_11,Chemistry,Unit 11 Making and identifying salts,3,1755816646
+user_12,Chemistry,Unit 13 Metals and Reactivity,3,1755861566
+user_12,Business,Chapter 13 The Marketing Mix,4,1755494326
+user_12,Business,Chapter 21 Business Finance - Needs and Sources,3,1755252450
+user_12,ICT,Unit 3 Storage Devices and Media,1,1755358655
+user_12,Business,Chapter 5 Business Objectives and Stakeholders,4,1755399343
+user_12,Business,Chapter 17 Production of Goods and Services,5,1755163037
+user_12,Chemistry,Unit 7 Chemical Changes,4,1755944851
+user_12,ICT,Unit 8 Safety and Security,3,1755094408
+user_12,ICT,Unit 5 The effects of using ICT,4,1755230810
+user_12,Business,Chapter 24 Balance Sheets,3,1756013865
+user_12,Business,Chapter 2 Classification of Business,2,1755306650
+user_12,ICT,Unit 6 ICT Applications,2,1755497330
+user_12,Chemistry,"Unit 2 Atoms, Elements and Compounds",1,1755990822
+user_12,Chemistry,Unit 16 The Chemical Industry,4,1755390364
+user_12,Biology,Unit 21 Human Influences on Ecosystems,3,1755917288
+user_13,ICT,Unit 2 Input and Output Devices,2,1755930973
+user_13,Biology,Unit 3 Movement in and out of cells,3,1755384454
+user_13,Chemistry,Unit 9 Chemical Reactions,4,1755387910
+user_13,Business,Chapter 2 Classification of Business,3,1755536297
+user_13,Business,Chapter 5 Business Objectives and Stakeholders,2,1755778910
+user_13,Biology,Unit 9 Transport in humans,1,1756032347
+user_13,Biology,Unit 19 Organisms and their environment,2,1755618754
+user_13,Business,Chapter 16 Marketing Strategy,5,1755549894
+user_13,Chemistry,Unit 1 Particles and Purification,2,1755473868
+user_13,Business,Chapter 7 Organisation and management,3,1755909236
+user_13,ICT,Unit 7 Systems Analysis and Design,1,1755558633
+user_13,Business,Chapter 25 Analysis of Accountants,4,1755962470
+user_13,Chemistry,Unit 16 The Chemical Industry,4,1755744653
+user_13,Biology,Unit 17 Inheritance,2,1755931573
+user_13,Biology,Unit 12 Respiration,5,1755817931
+user_14,Biology,Unit 17 Inheritance,2,1755073001
+user_14,Chemistry,Unit 18 The Variety of Organic Chemicals,2,1755498446
+user_14,Biology,Unit 15 Drugs,4,1755359148
+user_14,Biology,Unit 18 Variation and selection,1,1755736534
+user_14,Business,Chapter 6 Motivating Workers,2,1755562551
+user_14,Business,Chapter 24 Balance Sheets,2,1755886315
+user_14,Biology,Unit 21 Human Influences on Ecosystems,1,1755706655
+user_14,Chemistry,Unit 12 The Periodic Table,3,1755768539
+user_14,Chemistry,Unit 9 Chemical Reactions,1,1755235023
+user_14,Business,Chapter 14 The Marketing Mix,4,1755276742
+user_14,ICT,Unit 2 Input and Output Devices,1,1755175441
+user_14,ICT,Unit 1 Types and Components of Computer Systems,3,1755589343
+user_14,Business,Chapter 1 Business Activity,2,1755735952
+user_14,Biology,Unit 13 Excretion,2,1755483310
+user_14,Business,Chapter 21 Business Finance - Needs and Sources,2,1755379438
+user_15,Chemistry,Unit 16 The Chemical Industry,4,1755237396
+user_15,Biology,Unit 13 Excretion,4,1755767309
+user_15,Business,Chapter 19 Achieving Quality Production,2,1755526175
+user_15,Biology,Unit 2 Cells,3,1756039071
+user_15,Business,Chapter 20 Location Decisions,1,1755208221
+user_15,ICT,Unit 3 Storage Devices and Media,3,1755493063
+user_15,Chemistry,Unit 6 Electricity and Chemistry,1,1755619781
+user_15,Business,Chapter 7 Organisation and management,2,1755793163
+user_15,Biology,Unit 8 Plant Transport,2,1755647122
+user_15,ICT,Unit 1 Types and Components of Computer Systems,4,1755408270
+user_15,Business,Chapter 24 Balance Sheets,5,1755502128
+user_15,Business,Chapter 1 Business Activity,2,1755150824
+user_15,Business,Chapter 25 Analysis of Accountants,5,1755237272
+user_15,Chemistry,Unit 15 Air and Water,1,1755799813
+user_15,Biology,Unit 14 Coordination and Response,2,1755468640
+user_16,Business,Chapter 27 Environmental and Ethical Issues,3,1755628184
+user_16,ICT,Unit 2 Input and Output Devices,3,1755938199
+user_16,ICT,Unit 7 Systems Analysis and Design,4,1755660430
+user_16,Biology,Unit 9 Transport in humans,4,1755374626
+user_16,Biology,Unit 21 Human Influences on Ecosystems,1,1755379520
+user_16,Business,Chapter 17 Production of Goods and Services,1,1755183113
+user_16,Biology,Unit 12 Respiration,5,1755598435
+user_16,Biology,Unit 14 Coordination and Response,5,1755430101
+user_16,Biology,Unit 6 Plant Nutrition,2,1755561073
+user_16,Business,Chapter 13 The Marketing Mix,5,1755443291
+user_16,Business,Chapter 25 Analysis of Accountants,3,1755947405
+user_16,Chemistry,Unit 19 Polymers,4,1755353745
+user_16,Business,Chapter 1 Business Activity,2,1755774519
+user_16,Biology,Unit 3 Movement in and out of cells,1,1755446227
+user_16,ICT,Unit 6 ICT Applications,2,1755116699
+user_17,Business,Chapter 17 Production of Goods and Services,1,1755241269
+user_17,Biology,Unit 15 Drugs,5,1755446873
+user_17,Chemistry,Unit 6 Electricity and Chemistry,2,1755210006
+user_17,Chemistry,Unit 14 Metal Extraction,3,1755078654
+user_17,ICT,Unit 7 Systems Analysis and Design,2,1755069338
+user_17,Biology,Unit 18 Variation and selection,5,1755195567
+user_17,Chemistry,Unit 18 The Variety of Organic Chemicals,4,1755198503
+user_17,Business,Chapter 1 Business Activity,3,1755525374
+user_17,Business,Chapter 19 Achieving Quality Production,2,1755709592
+user_17,Biology,Unit 12 Respiration,5,1755340844
+user_17,Biology,Unit 4 Biological Molecules,3,1755868872
+user_17,Biology,Unit 11 Gas Exchange in Humans,5,1755373218
+user_17,Business,Chapter 15 The Marketing Mix,5,1755411641
+user_17,Biology,Unit 6 Plant Nutrition,3,1755602866
+user_17,ICT,Unit 3 Storage Devices and Media,3,1755573566
+user_18,Biology,Unit 20 Microorganisms and biotechnology,5,1755820673
+user_18,Business,Chapter 26 Government economic objectives and policies,3,1755809682
+user_18,Business,Chapter 6 Motivating Workers,3,1755540774
+user_18,Biology,Unit 13 Excretion,5,1755920606
+user_18,ICT,Unit 8 Safety and Security,1,1755370586
+user_18,Biology,Unit 2 Cells,5,1755624541
+user_18,Business,Chapter 16 Marketing Strategy,2,1755134717
+user_18,Business,Chapter 11 Market Research,3,1755327787
+user_18,ICT,Unit 6 ICT Applications,4,1755263503
+user_18,Chemistry,Unit 14 Metal Extraction,5,1755628287
+user_18,Chemistry,Unit 11 Making and identifying salts,2,1755128106
+user_18,Chemistry,Unit 16 The Chemical Industry,2,1755600362
+user_18,Business,Chapter 28 Business and the International Economy,2,1755132013
+user_18,ICT,Unit 2 Input and Output Devices,3,1755847821
+user_18,Biology,Unit 4 Biological Molecules,4,1755938704
+user_19,Chemistry,Unit 8 Speed of Reaction,1,1755378935
+user_19,Business,"Chapter 8 Recruitment, Selection and Training",2,1755607049
+user_19,ICT,Unit 3 Storage Devices and Media,4,1755359456
+user_19,Business,Chapter 28 Business and the International Economy,4,1755959246
+user_19,Business,Chapter 4 Types of Business Organisation,3,1755086249
+user_19,Business,"Chapter 10 Marketing, Competition and the Customer",2,1755927118
+user_19,Business,Chapter 23 Income Statements,4,1755894769
+user_19,Biology,Unit 14 Coordination and Response,1,1756043835
+user_19,Biology,Unit 17 Inheritance,2,1755091817
+user_19,Biology,Unit 15 Drugs,1,1755428286
+user_19,Business,Chapter 22 Cash flow forecasting and working capital,4,1755470900
+user_19,Business,Chapter 17 Production of Goods and Services,2,1755160259
+user_19,Chemistry,Unit 19 Polymers,3,1755835249
+user_19,ICT,Unit 8 Safety and Security,1,1755492224
+user_19,Biology,Unit 10 Diseases and Immunity,3,1755804750
+user_20,Business,"Chapter 8 Recruitment, Selection and Training",1,1756036106
+user_20,Business,Chapter 17 Production of Goods and Services,3,1755530148
+user_20,Business,Chapter 4 Types of Business Organisation,3,1755061295
+user_20,Business,Chapter 16 Marketing Strategy,2,1755670561
+user_20,Chemistry,Unit 18 The Variety of Organic Chemicals,3,1755415499
+user_20,Biology,Unit 10 Diseases and Immunity,2,1755474366
+user_20,Chemistry,Unit 17 Organic chemistry and petrochemicals,5,1755601724
+user_20,Business,Chapter 28 Business and the International Economy,5,1755593081
+user_20,Biology,Unit 13 Excretion,3,1755092425
+user_20,Chemistry,"Unit 2 Atoms, Elements and Compounds",3,1755320910
+user_20,Biology,Unit 1 Characteristics and Classification of Living Organisms,1,1755127433
+user_20,Business,Chapter 25 Analysis of Accountants,5,1755871910
+user_20,Biology,Unit 14 Coordination and Response,1,1755377953
+user_20,ICT,Unit 5 The effects of using ICT,2,1755347851
+user_20,Biology,Unit 16 Reproduction,1,1755498498

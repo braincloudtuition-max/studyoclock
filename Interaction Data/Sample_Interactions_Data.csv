@@ -1,0 +1,649 @@
+user_id,subject,topic_name,rating
+1,ict,4. Networks and the effects of using them,4
+1,ict,5. The effects of using ICT,5
+1,chemistry,Unit 6 Electrcity and Chemistry,4
+1,business,Chapter 4- Types of Business Organisation,5
+1,ict,4. Networks and the effects of using them,3
+1,biology,Unit 13 Excretion,4
+1,ict,1. Types and Components of Computer Systems,2
+1,ict,1. Types and Components of Computer Systems,4
+1,ict,8.Safety and Security,5
+1,business,Chapter 21-Business Finance -Needs and Sources,4
+1,chemistry,Unit 16 The Chemical Industry,4
+1,chemistry,Unit 18 The Variety of Organic Chemicals,3
+1,business,Chapter 9- Internal and External Communication,3
+2,biology,Unit 3 Movement in and out of cells,3
+2,biology,Unit 21 Human Influences on Ecosystems,3
+2,biology,Unit 20 Microorganisms and biotechnology,3
+2,business,Chapter 24-Balance Sheets,3
+2,biology,Unit 15 Drugs,4
+2,biology,Unit 17 Inheritance,5
+2,ict,4. Networks and the effects of using them,4
+2,biology,Unit 18 Variation and selection,4
+2,business,Chapter 24-Balance Sheets,4
+2,chemistry,Unit 9 Chemical Reactions,4
+2,business,Chapter 13- The Marketing Mix,3
+2,biology,Unit 10 Diseases and Immunity,3
+2,biology,Unit 8 Plant Transport,4
+2,ict,2. Input and Output Devices,3
+3,chemistry,Unit 10 Acids and Bases,4
+3,biology,Unit 16 Reproduction,3
+3,business,Chapter 27-Environmental and Ethical Issues,5
+3,ict,1. Types and Components of Computer Systems,4
+3,ict,7. Systems Analysis and Design,3
+3,chemistry,Unit 18 The Variety of Organic Chemicals,4
+3,biology,Unit 10 Diseases and Immunity,3
+3,chemistry,Unit 1 Particles and Purification,2
+3,ict,8.Safety and Security,5
+3,chemistry,Unit 11 Making and identifying salts,4
+3,chemistry,Unit 3 Structure and Bonding,4
+3,ict,4. Networks and the effects of using them,5
+3,chemistry,Unit 20 Natural Polymers,4
+3,chemistry,Unit 15 Air and Water,4
+4,ict,7. Systems Analysis and Design,2
+4,ict,7. Systems Analysis and Design,4
+4,ict,4. Networks and the effects of using them,4
+4,chemistry,Unit 6 Electrcity and Chemistry,4
+4,ict,2. Input and Output Devices,3
+4,biology,Unit 13 Excretion,3
+4,ict,1. Types and Components of Computer Systems,3
+4,ict,2. Input and Output Devices,5
+4,biology,Unit 7 Animal Nutrition,3
+4,business,Chapter 24-Balance Sheets,3
+5,biology,Unit 4 Biological Molecules,4
+5,ict,3. Storage Devices and Media,4
+5,biology,Unit 15 Drugs,4
+5,biology,Unit 4 Biological Molecules,5
+5,ict,3. Storage Devices and Media,3
+5,business,"Chapter 18- Costs, Scale of Production and Break-Even Analysis",3
+5,chemistry,Unit 12 The Periodic Table,3
+5,biology,Unit 10 Diseases and Immunity,5
+5,ict,7. Systems Analysis and Design,3
+5,biology,Unit 6 Plant Nutrition,4
+5,ict,8.Safety and Security,4
+5,biology,Unit 19 Organisms and their environment,4
+5,biology,Unit 16 Reproduction,5
+5,ict,2. Input and Output Devices,4
+6,biology,Unit 12 Respiration,5
+6,business,Chapter 6- Motivating Workers,5
+6,business,Chapter 22-Cash flow forecasting and working capital,3
+6,business,Chapter 13- The Marketing Mix,2
+6,business,Chapter 1-Business Actvity,3
+6,biology,Unit 3 Movement in and out of cells,3
+6,ict,2. Input and Output Devices,4
+6,business,Chapter 15-The Marketing Mix,4
+7,chemistry,Unit 11 Making and identifying salts,3
+7,biology,Unit 4 Biological Molecules,2
+7,biology,Unit 20 Microorganisms and biotechnology,4
+7,ict,4. Networks and the effects of using them,5
+7,biology,Unit 9 Transport in humans,3
+7,business,Chapter 24-Balance Sheets,3
+7,chemistry,Unit 15 Air and Water,3
+7,chemistry,Unit 14 Metal Extraction,4
+8,ict,3. Storage Devices and Media,4
+8,business,"Chapter 10-Marketing, Competition and the Customer",4
+8,biology,Unit 21 Human Influences on Ecosystems,4
+8,business,Chapter 19-Achieving Quality Production,4
+8,ict,3. Storage Devices and Media,5
+8,chemistry,Unit 17 Organic chemistry and petrochemicals,3
+8,business,Chapter 7-Organisation and mangement,2
+8,business,Chapter 21-Business Finance -Needs and Sources,3
+8,business,Chapter 26-Government economic objectives and policies,4
+8,biology,Unit 21 Human Influences on Ecosystems,3
+9,ict,3. Storage Devices and Media,4
+9,ict,3. Storage Devices and Media,3
+9,biology,Unit 13 Excretion,3
+9,business,Chapter 5- Business Objectives and Stakeholder objectives,3
+9,biology,Unit 18 Variation and selection,4
+9,ict,7. Systems Analysis and Design,3
+9,ict,5. The effects of using ICT,3
+9,business,Chapter 14-The Marketing Mix,3
+9,business,"Chapter 3- Enterprise, Business Growth and Size",3
+10,biology,Unit 7 Animal Nutrition,4
+10,ict,4. Networks and the effects of using them,3
+10,chemistry,"Unit 2 Atoms, Elements and Compounds",4
+10,business,Chapter 28-Business and the International Economy,5
+10,ict,7. Systems Analysis and Design,3
+10,ict,6. ICT Applications,3
+10,chemistry,Unit 13 Metals and Reactivity,4
+10,business,Chapter 22-Cash flow forecasting and working capital,3
+10,ict,3. Storage Devices and Media,4
+11,ict,6. ICT Applications,4
+11,biology,Unit 20 Microorganisms and biotechnology,4
+11,chemistry,Unit 16 The Chemical Industry,3
+11,business,Chapter 6- Motivating Workers,4
+11,chemistry,Unit 3 Structure and Bonding,4
+11,business,Chapter 14-The Marketing Mix,3
+11,ict,4. Networks and the effects of using them,4
+11,ict,4. Networks and the effects of using them,5
+11,business,Chapter 1-Business Actvity,4
+12,biology,Unit 8 Plant Transport,5
+12,business,Chapter 5- Business Objectives and Stakeholder objectives,3
+12,biology,Unit 18 Variation and selection,5
+12,business,Chapter 11-Market Research,3
+12,ict,2. Input and Output Devices,4
+12,biology,Unit 12 Respiration,4
+12,biology,Unit 8 Plant Transport,3
+12,business,"Chapter 3- Enterprise, Business Growth and Size",5
+12,ict,7. Systems Analysis and Design,4
+12,biology,Unit 13 Excretion,3
+12,business,Chapter 16-Marketing Strategy,2
+13,chemistry,Unit 14 Metal Extraction,3
+13,business,Chapter 28-Business and the International Economy,3
+13,chemistry,Unit 13 Metals and Reactivity,2
+13,biology,Unit 9 Transport in humans,3
+13,ict,5. The effects of using ICT,3
+13,ict,5. The effects of using ICT,4
+13,ict,7. Systems Analysis and Design,3
+13,chemistry,Unit 11 Making and identifying salts,3
+14,chemistry,Unit 18 The Variety of Organic Chemicals,5
+14,business,"Chapter 8- Recruitment, Selection and Training of Workers",3
+14,business,"Chapter 8- Recruitment, Selection and Training of Workers",5
+14,business,Chapter 5- Business Objectives and Stakeholder objectives,4
+14,business,Chapter 14-The Marketing Mix,4
+14,business,Chapter 23-Income Statements,3
+14,ict,8.Safety and Security,3
+14,chemistry,Unit 15 Air and Water,3
+14,biology,Unit 20 Microorganisms and biotechnology,3
+14,biology,Unit 8 Plant Transport,5
+15,business,"Chapter 3- Enterprise, Business Growth and Size",4
+15,business,"Chapter 3- Enterprise, Business Growth and Size",5
+15,business,Chapter 13- The Marketing Mix,4
+15,business,Chapter 9- Internal and External Communication,5
+15,chemistry,Unit 14 Metal Extraction,3
+15,business,Chapter 17-Production of Goods and Services,3
+15,chemistry,Unit 18 The Variety of Organic Chemicals,5
+15,chemistry,Unit 15 Air and Water,4
+16,business,Chapter 16-Marketing Strategy,3
+16,business,Chapter 20-Location Decisions,3
+16,business,Chapter 26-Government economic objectives and policies,4
+16,ict,5. The effects of using ICT,3
+16,business,"Chapter 3- Enterprise, Business Growth and Size",4
+16,business,Chapter 4- Types of Business Organisation,5
+16,business,Chapter 1-Business Actvity,4
+16,business,Chapter 21-Business Finance -Needs and Sources,4
+17,business,Chapter 22-Cash flow forecasting and working capital,3
+17,biology,Unit 14 Coordination and Response,3
+17,chemistry,Unit 7 Chemical Changes,4
+17,ict,7. Systems Analysis and Design,4
+17,biology,Unit 17 Inheritance,4
+17,chemistry,Unit 6 Electrcity and Chemistry,4
+17,chemistry,Unit 1 Particles and Purification,4
+17,chemistry,Unit 16 The Chemical Industry,3
+17,chemistry,Unit 12 The Periodic Table,3
+18,business,Chapter 21-Business Finance -Needs and Sources,5
+18,business,Chapter 17-Production of Goods and Services,4
+18,business,Chapter 24-Balance Sheets,4
+18,business,"Chapter 3- Enterprise, Business Growth and Size",4
+18,business,Chapter 26-Government economic objectives and policies,4
+18,business,Chapter 12-The Marketing Mix,3
+18,business,Chapter 14-The Marketing Mix,3
+18,business,Chapter 15-The Marketing Mix,5
+18,business,Chapter 20-Location Decisions,3
+18,biology,Unit 15 Drugs,3
+18,business,Chapter 20-Location Decisions,4
+19,ict,7. Systems Analysis and Design,4
+19,business,"Chapter 3- Enterprise, Business Growth and Size",3
+19,chemistry,"Unit 2 Atoms, Elements and Compounds",3
+19,ict,5. The effects of using ICT,3
+19,ict,5. The effects of using ICT,4
+19,ict,6. ICT Applications,3
+19,biology,Unit 12 Respiration,5
+19,ict,6. ICT Applications,4
+19,business,Chapter 15-The Marketing Mix,4
+19,ict,1. Types and Components of Computer Systems,3
+19,chemistry,Unit 15 Air and Water,3
+19,business,Chapter 26-Government economic objectives and policies,4
+19,ict,8.Safety and Security,4
+19,ict,3. Storage Devices and Media,4
+19,ict,8.Safety and Security,3
+20,chemistry,Unit 9 Chemical Reactions,3
+20,business,"Chapter 10-Marketing, Competition and the Customer",4
+20,chemistry,Unit 14 Metal Extraction,4
+20,biology,Unit 5 Enzymes,4
+20,business,Chapter 7-Organisation and mangement,4
+20,business,Chapter 4- Types of Business Organisation,4
+20,business,"Chapter 3- Enterprise, Business Growth and Size",3
+20,chemistry,Unit 12 The Periodic Table,4
+21,biology,Unit 19 Organisms and their environment,2
+21,chemistry,Unit 1 Particles and Purification,3
+21,chemistry,Unit 12 The Periodic Table,4
+21,biology,Unit 6 Plant Nutrition,4
+21,biology,Unit 1 Characteristics and Classification of Living Organisms,3
+21,chemistry,Unit 1 Particles and Purification,4
+21,chemistry,Unit 13 Metals and Reactivity,3
+21,ict,4. Networks and the effects of using them,4
+22,business,Chapter 2- Classification of Business,2
+22,chemistry,Unit 7 Chemical Changes,5
+22,ict,7. Systems Analysis and Design,5
+22,ict,4. Networks and the effects of using them,4
+22,business,Chapter 25-Analysis of Accountants,4
+22,biology,Unit 17 Inheritance,5
+22,business,Chapter 23-Income Statements,4
+22,business,"Chapter 3- Enterprise, Business Growth and Size",4
+22,business,"Chapter 18- Costs, Scale of Production and Break-Even Analysis",2
+22,chemistry,Unit 16 The Chemical Industry,4
+22,ict,6. ICT Applications,4
+22,biology,Unit 6 Plant Nutrition,3
+22,business,Chapter 22-Cash flow forecasting and working capital,3
+23,biology,Unit 12 Respiration,4
+23,biology,Unit 10 Diseases and Immunity,3
+23,ict,6. ICT Applications,3
+23,biology,Unit 4 Biological Molecules,3
+23,ict,8.Safety and Security,4
+23,chemistry,Unit 16 The Chemical Industry,5
+23,ict,2. Input and Output Devices,3
+23,biology,Unit 8 Plant Transport,2
+23,biology,Unit 19 Organisms and their environment,4
+23,business,Chapter 13- The Marketing Mix,3
+23,biology,Unit 6 Plant Nutrition,3
+23,biology,Unit 4 Biological Molecules,4
+24,ict,3. Storage Devices and Media,4
+24,ict,4. Networks and the effects of using them,4
+24,ict,3. Storage Devices and Media,5
+24,chemistry,Unit 16 The Chemical Industry,3
+24,ict,4. Networks and the effects of using them,3
+24,ict,5. The effects of using ICT,3
+24,ict,1. Types and Components of Computer Systems,3
+24,business,Chapter 14-The Marketing Mix,3
+24,ict,2. Input and Output Devices,4
+24,business,Chapter 15-The Marketing Mix,5
+24,biology,Unit 21 Human Influences on Ecosystems,4
+24,chemistry,Unit 10 Acids and Bases,5
+25,ict,3. Storage Devices and Media,4
+25,biology,Unit 6 Plant Nutrition,4
+25,ict,7. Systems Analysis and Design,3
+25,ict,8.Safety and Security,3
+25,ict,6. ICT Applications,3
+25,biology,Unit 17 Inheritance,3
+25,ict,1. Types and Components of Computer Systems,5
+25,business,Chapter 23-Income Statements,4
+25,ict,5. The effects of using ICT,3
+25,biology,Unit 21 Human Influences on Ecosystems,4
+25,chemistry,Unit 20 Natural Polymers,4
+26,ict,7. Systems Analysis and Design,4
+26,chemistry,Unit 7 Chemical Changes,4
+26,ict,6. ICT Applications,3
+26,chemistry,Unit 15 Air and Water,4
+26,ict,2. Input and Output Devices,3
+26,ict,5. The effects of using ICT,4
+26,biology,Unit 3 Movement in and out of cells,3
+27,chemistry,Unit 13 Metals and Reactivity,4
+27,ict,5. The effects of using ICT,4
+27,ict,6. ICT Applications,3
+27,biology,Unit 7 Animal Nutrition,5
+27,business,"Chapter 18- Costs, Scale of Production and Break-Even Analysis",4
+27,chemistry,Unit 6 Electrcity and Chemistry,4
+27,ict,1. Types and Components of Computer Systems,3
+27,ict,8.Safety and Security,2
+27,biology,Unit 5 Enzymes,5
+27,chemistry,Unit 18 The Variety of Organic Chemicals,4
+27,ict,2. Input and Output Devices,4
+28,biology,Unit 5 Enzymes,3
+28,biology,Unit 4 Biological Molecules,4
+28,biology,Unit 17 Inheritance,4
+28,biology,Unit 4 Biological Molecules,5
+28,biology,Unit 2 Cells,3
+28,biology,Unit 8 Plant Transport,4
+28,biology,Unit 19 Organisms and their environment,3
+28,biology,Unit 14 Coordination and Response,4
+28,chemistry,Unit 14 Metal Extraction,5
+28,biology,Unit 20 Microorganisms and biotechnology,3
+28,biology,Unit 3 Movement in and out of cells,3
+29,chemistry,Unit 7 Chemical Changes,5
+29,biology,Unit 3 Movement in and out of cells,3
+29,ict,8.Safety and Security,4
+29,biology,Unit 6 Plant Nutrition,4
+29,biology,Unit 3 Movement in and out of cells,5
+29,chemistry,Unit 8 Speed of Reaction,3
+29,ict,2. Input and Output Devices,5
+29,biology,Unit 18 Variation and selection,5
+29,ict,6. ICT Applications,5
+29,chemistry,Unit 15 Air and Water,4
+29,biology,Unit 4 Biological Molecules,4
+29,chemistry,Unit 16 The Chemical Industry,3
+29,chemistry,Unit 17 Organic chemistry and petrochemicals,4
+29,business,Chapter 28-Business and the International Economy,3
+30,chemistry,Unit 3 Structure and Bonding,4
+30,chemistry,Unit 14 Metal Extraction,4
+30,business,Chapter 17-Production of Goods and Services,2
+30,biology,Unit 4 Biological Molecules,4
+30,biology,Unit 17 Inheritance,3
+30,biology,Unit 21 Human Influences on Ecosystems,4
+30,biology,Unit 16 Reproduction,4
+30,business,"Chapter 3- Enterprise, Business Growth and Size",4
+30,biology,Unit 12 Respiration,3
+30,biology,Unit 2 Cells,3
+30,chemistry,Unit 9 Chemical Reactions,3
+30,biology,Unit 5 Enzymes,5
+30,biology,Unit 13 Excretion,3
+30,chemistry,Unit 17 Organic chemistry and petrochemicals,5
+31,biology,Unit 8 Plant Transport,3
+31,business,Chapter 23-Income Statements,2
+31,business,"Chapter 10-Marketing, Competition and the Customer",5
+31,business,Chapter 9- Internal and External Communication,3
+31,business,Chapter 20-Location Decisions,4
+31,business,Chapter 6- Motivating Workers,3
+31,biology,Unit 1 Characteristics and Classification of Living Organisms,5
+31,biology,Unit 21 Human Influences on Ecosystems,4
+31,business,Chapter 7-Organisation and mangement,3
+31,biology,Unit 7 Animal Nutrition,2
+31,chemistry,Unit 14 Metal Extraction,3
+32,biology,Unit 21 Human Influences on Ecosystems,4
+32,ict,7. Systems Analysis and Design,4
+32,biology,Unit 3 Movement in and out of cells,3
+32,chemistry,"Unit 2 Atoms, Elements and Compounds",3
+32,ict,2. Input and Output Devices,5
+32,business,Chapter 24-Balance Sheets,5
+32,business,Chapter 7-Organisation and mangement,4
+32,biology,Unit 21 Human Influences on Ecosystems,2
+33,biology,Unit 16 Reproduction,4
+33,biology,Unit 1 Characteristics and Classification of Living Organisms,3
+33,chemistry,Unit 13 Metals and Reactivity,4
+33,business,Chapter 27-Environmental and Ethical Issues,5
+33,business,Chapter 6- Motivating Workers,3
+33,biology,Unit 7 Animal Nutrition,3
+33,biology,Unit 7 Animal Nutrition,4
+33,biology,Unit 8 Plant Transport,3
+33,ict,2. Input and Output Devices,5
+33,ict,1. Types and Components of Computer Systems,4
+33,biology,Unit 4 Biological Molecules,4
+33,biology,Unit 21 Human Influences on Ecosystems,5
+33,biology,Unit 18 Variation and selection,5
+33,biology,Unit 14 Coordination and Response,3
+34,business,Chapter 2- Classification of Business,5
+34,chemistry,Unit 16 The Chemical Industry,2
+34,business,Chapter 23-Income Statements,4
+34,chemistry,Unit 12 The Periodic Table,2
+34,biology,Unit 21 Human Influences on Ecosystems,3
+34,business,Chapter 28-Business and the International Economy,4
+34,biology,Unit 1 Characteristics and Classification of Living Organisms,3
+34,chemistry,Unit 7 Chemical Changes,3
+34,biology,Unit 19 Organisms and their environment,4
+34,biology,Unit 8 Plant Transport,5
+35,biology,Unit 9 Transport in humans,5
+35,biology,Unit 20 Microorganisms and biotechnology,4
+35,ict,1. Types and Components of Computer Systems,4
+35,biology,Unit 19 Organisms and their environment,3
+35,business,Chapter 19-Achieving Quality Production,3
+35,biology,Unit 2 Cells,4
+35,business,Chapter 16-Marketing Strategy,3
+35,biology,Unit 20 Microorganisms and biotechnology,5
+35,chemistry,Unit 20 Natural Polymers,5
+36,business,Chapter 28-Business and the International Economy,2
+36,biology,Unit 11 Gas Exchange in Humans,3
+36,ict,6. ICT Applications,3
+36,biology,Unit 11 Gas Exchange in Humans,4
+36,ict,3. Storage Devices and Media,4
+36,ict,4. Networks and the effects of using them,3
+36,chemistry,Unit 9 Chemical Reactions,3
+36,biology,Unit 21 Human Influences on Ecosystems,3
+36,biology,Unit 8 Plant Transport,5
+36,biology,Unit 18 Variation and selection,3
+36,biology,Unit 4 Biological Molecules,5
+36,biology,Unit 18 Variation and selection,4
+36,business,Chapter 2- Classification of Business,5
+36,ict,5. The effects of using ICT,3
+37,ict,2. Input and Output Devices,4
+37,biology,Unit 18 Variation and selection,4
+37,business,Chapter 12-The Marketing Mix,4
+37,ict,3. Storage Devices and Media,5
+37,biology,Unit 17 Inheritance,3
+37,chemistry,Unit 6 Electrcity and Chemistry,3
+37,chemistry,Unit 18 The Variety of Organic Chemicals,4
+37,biology,Unit 13 Excretion,4
+37,business,"Chapter 3- Enterprise, Business Growth and Size",3
+37,business,Chapter 4- Types of Business Organisation,4
+37,business,Chapter 9- Internal and External Communication,4
+37,biology,Unit 5 Enzymes,4
+37,business,Chapter 2- Classification of Business,3
+37,business,Chapter 5- Business Objectives and Stakeholder objectives,4
+38,ict,5. The effects of using ICT,2
+38,business,Chapter 12-The Marketing Mix,3
+38,business,Chapter 23-Income Statements,3
+38,chemistry,"Unit 2 Atoms, Elements and Compounds",4
+38,ict,3. Storage Devices and Media,5
+38,business,Chapter 26-Government economic objectives and policies,3
+38,business,"Chapter 8- Recruitment, Selection and Training of Workers",4
+38,business,Chapter 20-Location Decisions,3
+38,ict,1. Types and Components of Computer Systems,5
+38,ict,4. Networks and the effects of using them,5
+38,biology,Unit 11 Gas Exchange in Humans,4
+38,ict,3. Storage Devices and Media,4
+38,business,Chapter 17-Production of Goods and Services,3
+38,biology,Unit 15 Drugs,3
+38,business,Chapter 7-Organisation and mangement,3
+39,chemistry,Unit 13 Metals and Reactivity,5
+39,biology,Unit 20 Microorganisms and biotechnology,4
+39,chemistry,Unit 10 Acids and Bases,3
+39,chemistry,Unit 7 Chemical Changes,4
+39,chemistry,Unit 7 Chemical Changes,3
+39,business,Chapter 14-The Marketing Mix,3
+39,ict,6. ICT Applications,4
+39,biology,Unit 20 Microorganisms and biotechnology,5
+39,chemistry,Unit 8 Speed of Reaction,3
+39,ict,1. Types and Components of Computer Systems,3
+39,business,Chapter 4- Types of Business Organisation,4
+39,biology,Unit 7 Animal Nutrition,4
+39,ict,7. Systems Analysis and Design,3
+40,business,Chapter 12-The Marketing Mix,3
+40,ict,8.Safety and Security,4
+40,business,Chapter 17-Production of Goods and Services,5
+40,biology,Unit 20 Microorganisms and biotechnology,4
+40,business,"Chapter 3- Enterprise, Business Growth and Size",4
+40,business,Chapter 21-Business Finance -Needs and Sources,4
+40,business,Chapter 1-Business Actvity,3
+40,business,"Chapter 8- Recruitment, Selection and Training of Workers",3
+41,chemistry,Unit 17 Organic chemistry and petrochemicals,3
+41,business,Chapter 21-Business Finance -Needs and Sources,4
+41,chemistry,Unit 10 Acids and Bases,5
+41,chemistry,"Unit 2 Atoms, Elements and Compounds",4
+41,biology,Unit 14 Coordination and Response,4
+41,business,Chapter 13- The Marketing Mix,4
+41,biology,Unit 5 Enzymes,3
+41,ict,8.Safety and Security,4
+41,ict,3. Storage Devices and Media,3
+41,chemistry,Unit 8 Speed of Reaction,3
+41,biology,Unit 8 Plant Transport,3
+41,ict,5. The effects of using ICT,5
+41,chemistry,Unit 1 Particles and Purification,3
+41,biology,Unit 10 Diseases and Immunity,3
+42,biology,Unit 18 Variation and selection,5
+42,ict,6. ICT Applications,5
+42,ict,8.Safety and Security,3
+42,ict,3. Storage Devices and Media,4
+42,biology,Unit 21 Human Influences on Ecosystems,3
+42,biology,Unit 11 Gas Exchange in Humans,5
+42,biology,Unit 13 Excretion,4
+42,ict,5. The effects of using ICT,5
+42,business,Chapter 4- Types of Business Organisation,5
+42,biology,Unit 14 Coordination and Response,5
+42,business,Chapter 15-The Marketing Mix,3
+42,ict,3. Storage Devices and Media,3
+42,ict,1. Types and Components of Computer Systems,3
+43,ict,1. Types and Components of Computer Systems,4
+43,ict,7. Systems Analysis and Design,3
+43,ict,5. The effects of using ICT,3
+43,ict,2. Input and Output Devices,3
+43,biology,Unit 7 Animal Nutrition,4
+43,biology,Unit 21 Human Influences on Ecosystems,5
+43,ict,1. Types and Components of Computer Systems,3
+43,biology,Unit 2 Cells,4
+43,ict,4. Networks and the effects of using them,4
+43,ict,2. Input and Output Devices,4
+44,biology,Unit 16 Reproduction,4
+44,ict,7. Systems Analysis and Design,4
+44,ict,3. Storage Devices and Media,3
+44,biology,Unit 15 Drugs,3
+44,ict,2. Input and Output Devices,4
+44,chemistry,Unit 19 Polymers,5
+44,ict,3. Storage Devices and Media,5
+44,ict,1. Types and Components of Computer Systems,4
+44,ict,8.Safety and Security,4
+44,ict,3. Storage Devices and Media,4
+44,business,Chapter 27-Environmental and Ethical Issues,5
+44,ict,6. ICT Applications,3
+45,ict,7. Systems Analysis and Design,4
+45,ict,3. Storage Devices and Media,3
+45,business,Chapter 26-Government economic objectives and policies,4
+45,ict,5. The effects of using ICT,4
+45,chemistry,Unit 10 Acids and Bases,4
+45,ict,2. Input and Output Devices,4
+45,ict,5. The effects of using ICT,3
+45,chemistry,Unit 6 Electrcity and Chemistry,4
+45,biology,Unit 4 Biological Molecules,4
+45,ict,4. Networks and the effects of using them,3
+46,chemistry,Unit 18 The Variety of Organic Chemicals,4
+46,ict,3. Storage Devices and Media,4
+46,ict,5. The effects of using ICT,4
+46,biology,Unit 15 Drugs,3
+46,business,Chapter 26-Government economic objectives and policies,4
+46,chemistry,Unit 14 Metal Extraction,4
+46,chemistry,Unit 15 Air and Water,4
+46,chemistry,Unit 15 Air and Water,2
+46,chemistry,Unit 19 Polymers,4
+47,business,Chapter 17-Production of Goods and Services,3
+47,biology,Unit 11 Gas Exchange in Humans,4
+47,ict,1. Types and Components of Computer Systems,3
+47,business,"Chapter 18- Costs, Scale of Production and Break-Even Analysis",5
+47,biology,Unit 3 Movement in and out of cells,3
+47,ict,7. Systems Analysis and Design,3
+47,biology,Unit 5 Enzymes,4
+47,ict,3. Storage Devices and Media,3
+48,business,Chapter 5- Business Objectives and Stakeholder objectives,3
+48,biology,Unit 4 Biological Molecules,5
+48,chemistry,"Unit 2 Atoms, Elements and Compounds",3
+48,business,Chapter 16-Marketing Strategy,2
+48,ict,4. Networks and the effects of using them,4
+48,chemistry,Unit 16 The Chemical Industry,4
+48,ict,4. Networks and the effects of using them,3
+48,ict,3. Storage Devices and Media,4
+48,business,Chapter 26-Government economic objectives and policies,4
+48,chemistry,Unit 15 Air and Water,4
+48,chemistry,Unit 12 The Periodic Table,4
+49,biology,Unit 8 Plant Transport,4
+49,ict,7. Systems Analysis and Design,4
+49,chemistry,Unit 17 Organic chemistry and petrochemicals,5
+49,ict,6. ICT Applications,3
+49,ict,6. ICT Applications,4
+49,ict,2. Input and Output Devices,3
+49,ict,3. Storage Devices and Media,4
+49,chemistry,Unit 6 Electrcity and Chemistry,4
+50,chemistry,Unit 7 Chemical Changes,4
+50,chemistry,Unit 3 Structure and Bonding,4
+50,ict,7. Systems Analysis and Design,3
+50,chemistry,Unit 16 The Chemical Industry,3
+50,chemistry,Unit 18 The Variety of Organic Chemicals,3
+50,biology,Unit 12 Respiration,5
+50,chemistry,Unit 14 Metal Extraction,3
+50,ict,4. Networks and the effects of using them,5
+50,biology,Unit 13 Excretion,3
+50,business,Chapter 1-Business Actvity,5
+50,ict,8.Safety and Security,4
+51,chemistry,Unit 8 Speed of Reaction,2
+51,biology,Unit 12 Respiration,5
+51,biology,Unit 7 Animal Nutrition,3
+51,business,"Chapter 18- Costs, Scale of Production and Break-Even Analysis",3
+51,business,Chapter 28-Business and the International Economy,4
+51,ict,6. ICT Applications,2
+51,ict,1. Types and Components of Computer Systems,3
+51,ict,6. ICT Applications,4
+51,biology,Unit 19 Organisms and their environment,4
+51,ict,2. Input and Output Devices,5
+52,biology,Unit 5 Enzymes,4
+52,business,Chapter 12-The Marketing Mix,4
+52,chemistry,Unit 14 Metal Extraction,4
+52,biology,Unit 2 Cells,3
+52,chemistry,Unit 10 Acids and Bases,4
+52,chemistry,Unit 18 The Variety of Organic Chemicals,4
+52,ict,6. ICT Applications,4
+52,business,Chapter 5- Business Objectives and Stakeholder objectives,3
+52,ict,1. Types and Components of Computer Systems,3
+52,business,"Chapter 3- Enterprise, Business Growth and Size",4
+52,business,Chapter 16-Marketing Strategy,5
+52,business,"Chapter 10-Marketing, Competition and the Customer",2
+53,business,Chapter 17-Production of Goods and Services,1
+53,ict,1. Types and Components of Computer Systems,5
+53,business,Chapter 12-The Marketing Mix,4
+53,business,Chapter 25-Analysis of Accountants,3
+53,business,Chapter 9- Internal and External Communication,3
+53,ict,7. Systems Analysis and Design,3
+53,business,Chapter 6- Motivating Workers,4
+53,chemistry,Unit 16 The Chemical Industry,4
+54,chemistry,Unit 18 The Variety of Organic Chemicals,3
+54,ict,3. Storage Devices and Media,5
+54,business,Chapter 19-Achieving Quality Production,3
+54,business,Chapter 1-Business Actvity,4
+54,business,Chapter 14-The Marketing Mix,4
+54,biology,Unit 2 Cells,3
+54,chemistry,"Unit 2 Atoms, Elements and Compounds",3
+54,biology,Unit 2 Cells,5
+54,chemistry,Unit 17 Organic chemistry and petrochemicals,3
+54,chemistry,Unit 6 Electrcity and Chemistry,2
+54,business,Chapter 12-The Marketing Mix,3
+55,ict,6. ICT Applications,5
+55,ict,8.Safety and Security,4
+55,ict,1. Types and Components of Computer Systems,3
+55,ict,6. ICT Applications,3
+55,ict,1. Types and Components of Computer Systems,4
+55,chemistry,Unit 1 Particles and Purification,3
+55,ict,2. Input and Output Devices,3
+55,business,Chapter 11-Market Research,3
+55,ict,5. The effects of using ICT,1
+55,biology,Unit 10 Diseases and Immunity,5
+55,chemistry,Unit 8 Speed of Reaction,4
+55,business,Chapter 19-Achieving Quality Production,3
+55,ict,5. The effects of using ICT,5
+56,business,Chapter 28-Business and the International Economy,4
+56,chemistry,Unit 12 The Periodic Table,4
+56,chemistry,Unit 17 Organic chemistry and petrochemicals,4
+56,business,Chapter 20-Location Decisions,4
+56,biology,Unit 6 Plant Nutrition,4
+56,business,"Chapter 3- Enterprise, Business Growth and Size",3
+56,chemistry,Unit 15 Air and Water,3
+56,business,Chapter 16-Marketing Strategy,3
+56,business,Chapter 2- Classification of Business,2
+56,business,Chapter 2- Classification of Business,4
+56,business,Chapter 21-Business Finance -Needs and Sources,4
+56,business,Chapter 28-Business and the International Economy,3
+57,business,Chapter 19-Achieving Quality Production,4
+57,biology,Unit 4 Biological Molecules,3
+57,biology,Unit 11 Gas Exchange in Humans,4
+57,biology,Unit 8 Plant Transport,3
+57,biology,Unit 16 Reproduction,4
+57,biology,Unit 18 Variation and selection,4
+57,biology,Unit 16 Reproduction,3
+57,biology,Unit 14 Coordination and Response,3
+57,chemistry,Unit 16 The Chemical Industry,4
+57,biology,Unit 5 Enzymes,2
+57,chemistry,Unit 16 The Chemical Industry,3
+57,biology,Unit 18 Variation and selection,2
+57,business,Chapter 9- Internal and External Communication,3
+58,business,Chapter 23-Income Statements,4
+58,biology,Unit 3 Movement in and out of cells,2
+58,ict,6. ICT Applications,3
+58,ict,1. Types and Components of Computer Systems,4
+58,chemistry,Unit 18 The Variety of Organic Chemicals,3
+58,business,Chapter 27-Environmental and Ethical Issues,5
+58,business,Chapter 20-Location Decisions,2
+58,chemistry,Unit 8 Speed of Reaction,3
+58,ict,3. Storage Devices and Media,5
+58,ict,8.Safety and Security,3
+59,chemistry,Unit 16 The Chemical Industry,3
+59,biology,Unit 13 Excretion,4
+59,business,Chapter 11-Market Research,4
+59,biology,Unit 21 Human Influences on Ecosystems,4
+59,business,Chapter 21-Business Finance -Needs and Sources,4
+59,biology,Unit 12 Respiration,4
+59,ict,4. Networks and the effects of using them,4
+59,biology,Unit 10 Diseases and Immunity,3
+59,business,Chapter 2- Classification of Business,3
+59,business,Chapter 7-Organisation and mangement,3
+60,biology,Unit 5 Enzymes,5
+60,chemistry,Unit 17 Organic chemistry and petrochemicals,4
+60,chemistry,Unit 7 Chemical Changes,4
+60,chemistry,"Unit 2 Atoms, Elements and Compounds",3
+60,chemistry,Unit 16 The Chemical Industry,5
+60,chemistry,Unit 15 Air and Water,3
+60,chemistry,Unit 10 Acids and Bases,4
+60,chemistry,Unit 9 Chemical Reactions,3

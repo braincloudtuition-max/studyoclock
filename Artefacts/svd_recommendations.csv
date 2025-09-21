@@ -1,0 +1,26 @@
+user_id,topic_name,predicted_score
+user_1,Unit 17 Inheritance,2.9125
+user_1,Unit 2 Cells,2.9125
+user_1,"Chapter 10 Marketing, Competition and the Customer",2.9125
+user_1,Unit 15 Drugs,2.9125
+user_1,Unit 13 Excretion,2.9125
+user_2,Chapter 16 Marketing Strategy,2.9125
+user_2,Chapter 13 The Marketing Mix,2.9125
+user_2,Unit 3 Movement in and out of cells,2.9125
+user_2,Chapter 20 Location Decisions,2.9125
+user_2,Unit 17 Organic chemistry and petrochemicals,2.9125
+user_3,Unit 8 Safety and Security,2.9125
+user_3,Chapter 16 Marketing Strategy,2.9125
+user_3,Unit 3 Movement in and out of cells,2.9125
+user_3,Chapter 23 Income Statements,2.9125
+user_3,Chapter 20 Location Decisions,2.9125
+user_4,Unit 8 Safety and Security,2.9125
+user_4,Chapter 16 Marketing Strategy,2.9125
+user_4,Chapter 13 The Marketing Mix,2.9125
+user_4,Unit 3 Movement in and out of cells,2.9125
+user_4,Chapter 23 Income Statements,2.9125
+user_5,Unit 8 Safety and Security,2.9125
+user_5,Chapter 16 Marketing Strategy,2.9125
+user_5,Unit 3 Movement in and out of cells,2.9125
+user_5,Chapter 23 Income Statements,2.9125
+user_5,Chapter 20 Location Decisions,2.9125

@@ -1,0 +1,1620 @@
+user_id,subject,topic_name,rating,timestamp
+user_1,biology,Unit 1 Cells,5,1755025074
+user_1,biology,Unit 5 Genetics,5,1755025417
+user_1,biology,Unit 4 Photosynthesis,1,1755025015
+user_1,biology,Unit 2 Enzymes,1,1755025208
+user_1,biology,Unit 7 Immunity,2,1755025502
+user_1,biology,Unit 10 Homeostasis,5,1755025012
+user_1,chemistry,Unit 4 Stoichiometry,3,1755025269
+user_1,chemistry,Unit 9 Redox,2,1755025205
+user_1,chemistry,Unit 7 Equilibria,3,1755025089
+user_1,chemistry,Unit 2 Periodic Table,1,1755025374
+user_1,chemistry,Unit 10 Organic Chemistry,1,1755025352
+user_1,chemistry,Unit 5 Energetics,3,1755025603
+user_1,chemistry,Unit 3 Bonding,3,1755025811
+user_1,chemistry,Unit 1 Atomic Structure,1,1755025732
+user_1,chemistry,Unit 6 Kinetics,4,1755025534
+user_1,chemistry,Unit 8 Acids and Bases,1,1755025981
+user_1,business,Chapter 2 Marketing,1,1755025031
+user_1,business,Chapter 9 Strategic Management,2,1755025776
+user_1,business,Chapter 5 Human Resources,3,1755025066
+user_1,business,Chapter 7 External Environment,2,1755025872
+user_1,business,Chapter 6 Business Growth,1,1755025374
+user_1,business,Chapter 8 Ethics,3,1755025449
+user_1,business,Chapter 3 Finance,3,1755025151
+user_1,business,Chapter 4 Operations,3,1755025348
+user_1,business,Chapter 1 Business Activity,2,1755025671
+user_1,ict,Topic 2 Software,5,1755025209
+user_1,ict,Topic 3 Networks,3,1755025848
+user_1,ict,Topic 4 Databases,1,1755025219
+user_1,ict,Topic 10 Emerging Technologies,1,1755025809
+user_1,ict,Topic 8 Programming,3,1755025395
+user_1,ict,Topic 6 Internet,3,1755025052
+user_1,ict,Topic 9 AI,2,1755025920
+user_1,ict,Topic 5 Security,5,1755025882
+user_2,biology,Unit 4 Photosynthesis,2,1755025747
+user_2,biology,Unit 8 Plant Transport,5,1755025536
+user_2,biology,Unit 7 Immunity,3,1755025749
+user_2,biology,Unit 6 Ecology,5,1755025423
+user_2,biology,Unit 10 Homeostasis,5,1755025393
+user_2,biology,Unit 2 Enzymes,3,1755025209
+user_2,biology,Unit 3 Respiration,2,1755025506
+user_2,biology,Unit 1 Cells,4,1755025078
+user_2,chemistry,Unit 2 Periodic Table,5,1755025050
+user_2,chemistry,Unit 3 Bonding,4,1755025375
+user_2,chemistry,Unit 9 Redox,5,1755025464
+user_2,chemistry,Unit 7 Equilibria,5,1755025242
+user_2,chemistry,Unit 6 Kinetics,5,1755025866
+user_2,chemistry,Unit 4 Stoichiometry,1,1755025681
+user_2,business,Chapter 9 Strategic Management,2,1755025449
+user_2,business,Chapter 5 Human Resources,1,1755025961
+user_2,business,Chapter 6 Business Growth,3,1755025980
+user_2,business,Chapter 1 Business Activity,5,1755025765
+user_2,business,Chapter 3 Finance,2,1755025504
+user_2,business,Chapter 4 Operations,1,1755025876
+user_2,ict,Topic 9 AI,3,1755025485
+user_2,ict,Topic 4 Databases,1,1755025099
+user_2,ict,Topic 3 Networks,3,1755025884
+user_2,ict,Topic 8 Programming,3,1755025230
+user_2,ict,Topic 2 Software,1,1755025231
+user_2,ict,Topic 5 Security,5,1755025954
+user_2,ict,Topic 1 Hardware,1,1755025072
+user_2,ict,Topic 7 Multimedia,4,1755025820
+user_3,biology,Unit 9 Human Transport,2,1755025256
+user_3,biology,Unit 3 Respiration,5,1755025878
+user_3,biology,Unit 10 Homeostasis,5,1755025418
+user_3,biology,Unit 6 Ecology,2,1755025936
+user_3,biology,Unit 4 Photosynthesis,5,1755025758
+user_3,biology,Unit 5 Genetics,2,1755025715
+user_3,chemistry,Unit 7 Equilibria,1,1755025331
+user_3,chemistry,Unit 6 Kinetics,1,1755025587
+user_3,chemistry,Unit 8 Acids and Bases,5,1755025220
+user_3,chemistry,Unit 5 Energetics,5,1755025210
+user_3,chemistry,Unit 4 Stoichiometry,1,1755025057
+user_3,chemistry,Unit 1 Atomic Structure,1,1755025219
+user_3,chemistry,Unit 2 Periodic Table,1,1755025912
+user_3,chemistry,Unit 10 Organic Chemistry,1,1755025865
+user_3,business,Chapter 2 Marketing,2,1755025725
+user_3,business,Chapter 9 Strategic Management,5,1755025575
+user_3,business,Chapter 4 Operations,4,1755025233
+user_3,business,Chapter 3 Finance,4,1755025811
+user_3,business,Chapter 6 Business Growth,4,1755025179
+user_3,business,Chapter 8 Ethics,1,1755025084
+user_3,business,Chapter 10 Innovation,4,1755025347
+user_3,business,Chapter 7 External Environment,4,1755025405
+user_3,ict,Topic 1 Hardware,2,1755025534
+user_3,ict,Topic 2 Software,4,1755025128
+user_3,ict,Topic 10 Emerging Technologies,4,1755025172
+user_3,ict,Topic 4 Databases,3,1755025458
+user_3,ict,Topic 6 Internet,2,1755025880
+user_3,ict,Topic 3 Networks,1,1755025438
+user_3,ict,Topic 8 Programming,5,1755025085
+user_3,ict,Topic 7 Multimedia,1,1755025652
+user_3,ict,Topic 5 Security,5,1755025841
+user_4,biology,Unit 2 Enzymes,2,1755025870
+user_4,biology,Unit 4 Photosynthesis,4,1755025909
+user_4,biology,Unit 3 Respiration,1,1755025153
+user_4,biology,Unit 9 Human Transport,4,1755024987
+user_4,biology,Unit 7 Immunity,4,1755025256
+user_4,biology,Unit 6 Ecology,4,1755025277
+user_4,chemistry,Unit 9 Redox,3,1755025043
+user_4,chemistry,Unit 8 Acids and Bases,1,1755025583
+user_4,chemistry,Unit 3 Bonding,4,1755025499
+user_4,chemistry,Unit 2 Periodic Table,5,1755025146
+user_4,chemistry,Unit 10 Organic Chemistry,1,1755025968
+user_4,chemistry,Unit 7 Equilibria,5,1755025067
+user_4,chemistry,Unit 1 Atomic Structure,2,1755025055
+user_4,chemistry,Unit 6 Kinetics,5,1755025054
+user_4,chemistry,Unit 4 Stoichiometry,2,1755025398
+user_4,business,Chapter 10 Innovation,5,1755025563
+user_4,business,Chapter 4 Operations,5,1755025308
+user_4,business,Chapter 1 Business Activity,3,1755025194
+user_4,business,Chapter 5 Human Resources,3,1755025229
+user_4,business,Chapter 8 Ethics,3,1755025390
+user_4,business,Chapter 9 Strategic Management,2,1755025672
+user_4,ict,Topic 8 Programming,5,1755025203
+user_4,ict,Topic 6 Internet,5,1755025256
+user_4,ict,Topic 2 Software,2,1755025940
+user_4,ict,Topic 1 Hardware,3,1755025887
+user_4,ict,Topic 4 Databases,1,1755025885
+user_4,ict,Topic 5 Security,2,1755025363
+user_4,ict,Topic 7 Multimedia,3,1755025146
+user_4,ict,Topic 9 AI,4,1755025838
+user_5,biology,Unit 5 Genetics,1,1755025745
+user_5,biology,Unit 9 Human Transport,5,1755025144
+user_5,biology,Unit 1 Cells,3,1755025273
+user_5,biology,Unit 6 Ecology,5,1755025200
+user_5,biology,Unit 10 Homeostasis,3,1755025193
+user_5,biology,Unit 3 Respiration,3,1755025502
+user_5,biology,Unit 8 Plant Transport,4,1755025242
+user_5,biology,Unit 4 Photosynthesis,1,1755025079
+user_5,biology,Unit 2 Enzymes,4,1755025834
+user_5,biology,Unit 7 Immunity,3,1755025030
+user_5,chemistry,Unit 6 Kinetics,5,1755025707
+user_5,chemistry,Unit 3 Bonding,4,1755025559
+user_5,chemistry,Unit 5 Energetics,1,1755025099
+user_5,chemistry,Unit 2 Periodic Table,1,1755025952
+user_5,chemistry,Unit 10 Organic Chemistry,2,1755025543
+user_5,chemistry,Unit 4 Stoichiometry,1,1755025839
+user_5,business,Chapter 10 Innovation,1,1755025905
+user_5,business,Chapter 9 Strategic Management,3,1755025200
+user_5,business,Chapter 3 Finance,2,1755025667
+user_5,business,Chapter 4 Operations,1,1755025347
+user_5,business,Chapter 2 Marketing,5,1755025890
+user_5,business,Chapter 1 Business Activity,4,1755025982
+user_5,business,Chapter 8 Ethics,5,1755025752
+user_5,business,Chapter 6 Business Growth,2,1755025932
+user_5,ict,Topic 3 Networks,2,1755025258
+user_5,ict,Topic 10 Emerging Technologies,2,1755025791
+user_5,ict,Topic 7 Multimedia,1,1755025376
+user_5,ict,Topic 1 Hardware,1,1755025864
+user_5,ict,Topic 2 Software,4,1755025212
+user_5,ict,Topic 9 AI,2,1755025821
+user_5,ict,Topic 4 Databases,4,1755025343
+user_6,biology,Unit 4 Photosynthesis,1,1755025975
+user_6,biology,Unit 10 Homeostasis,3,1755025344
+user_6,biology,Unit 1 Cells,5,1755025394
+user_6,biology,Unit 6 Ecology,5,1755025324
+user_6,biology,Unit 2 Enzymes,1,1755025103
+user_6,biology,Unit 9 Human Transport,3,1755025167
+user_6,biology,Unit 3 Respiration,5,1755025970
+user_6,biology,Unit 7 Immunity,3,1755025024
+user_6,chemistry,Unit 10 Organic Chemistry,5,1755025508
+user_6,chemistry,Unit 7 Equilibria,1,1755025379
+user_6,chemistry,Unit 6 Kinetics,5,1755025179
+user_6,chemistry,Unit 8 Acids and Bases,3,1755025030
+user_6,chemistry,Unit 3 Bonding,4,1755024986
+user_6,chemistry,Unit 4 Stoichiometry,5,1755025932
+user_6,business,Chapter 4 Operations,5,1755025301
+user_6,business,Chapter 6 Business Growth,4,1755025319
+user_6,business,Chapter 7 External Environment,4,1755025698
+user_6,business,Chapter 1 Business Activity,3,1755025552
+user_6,business,Chapter 9 Strategic Management,2,1755025181
+user_6,business,Chapter 3 Finance,4,1755025665
+user_6,business,Chapter 5 Human Resources,4,1755025678
+user_6,business,Chapter 10 Innovation,2,1755025615
+user_6,business,Chapter 8 Ethics,5,1755025293
+user_6,business,Chapter 2 Marketing,4,1755025546
+user_6,ict,Topic 5 Security,3,1755025461
+user_6,ict,Topic 10 Emerging Technologies,4,1755025437
+user_6,ict,Topic 4 Databases,2,1755025508
+user_6,ict,Topic 8 Programming,4,1755025797
+user_6,ict,Topic 9 AI,2,1755025659
+user_6,ict,Topic 6 Internet,1,1755025275
+user_7,biology,Unit 10 Homeostasis,1,1755025235
+user_7,biology,Unit 6 Ecology,4,1755025610
+user_7,biology,Unit 2 Enzymes,1,1755025451
+user_7,biology,Unit 7 Immunity,4,1755025892
+user_7,biology,Unit 8 Plant Transport,5,1755025184
+user_7,biology,Unit 3 Respiration,4,1755025491
+user_7,biology,Unit 9 Human Transport,4,1755025234
+user_7,biology,Unit 1 Cells,2,1755025656
+user_7,biology,Unit 5 Genetics,1,1755025899
+user_7,biology,Unit 4 Photosynthesis,1,1755025782
+user_7,chemistry,Unit 4 Stoichiometry,4,1755025668
+user_7,chemistry,Unit 3 Bonding,5,1755025557
+user_7,chemistry,Unit 8 Acids and Bases,5,1755025309
+user_7,chemistry,Unit 1 Atomic Structure,4,1755025612
+user_7,chemistry,Unit 5 Energetics,5,1755025421
+user_7,chemistry,Unit 2 Periodic Table,5,1755025441
+user_7,chemistry,Unit 7 Equilibria,2,1755025746
+user_7,chemistry,Unit 6 Kinetics,4,1755025445
+user_7,chemistry,Unit 10 Organic Chemistry,3,1755025754
+user_7,business,Chapter 5 Human Resources,1,1755025715
+user_7,business,Chapter 9 Strategic Management,3,1755025225
+user_7,business,Chapter 8 Ethics,3,1755025328
+user_7,business,Chapter 6 Business Growth,3,1755025899
+user_7,business,Chapter 2 Marketing,5,1755025067
+user_7,business,Chapter 3 Finance,2,1755025139
+user_7,business,Chapter 4 Operations,2,1755025377
+user_7,ict,Topic 4 Databases,4,1755025048
+user_7,ict,Topic 2 Software,2,1755025837
+user_7,ict,Topic 7 Multimedia,4,1755025383
+user_7,ict,Topic 10 Emerging Technologies,5,1755025953
+user_7,ict,Topic 3 Networks,1,1755025862
+user_7,ict,Topic 5 Security,5,1755025374
+user_7,ict,Topic 8 Programming,4,1755024991
+user_8,biology,Unit 5 Genetics,2,1755025264
+user_8,biology,Unit 7 Immunity,4,1755025482
+user_8,biology,Unit 9 Human Transport,1,1755025383
+user_8,biology,Unit 10 Homeostasis,3,1755025669
+user_8,biology,Unit 6 Ecology,4,1755025726
+user_8,biology,Unit 8 Plant Transport,2,1755025845
+user_8,biology,Unit 2 Enzymes,4,1755025926
+user_8,biology,Unit 4 Photosynthesis,2,1755025622
+user_8,chemistry,Unit 1 Atomic Structure,3,1755025373
+user_8,chemistry,Unit 7 Equilibria,3,1755025201
+user_8,chemistry,Unit 10 Organic Chemistry,4,1755025319
+user_8,chemistry,Unit 8 Acids and Bases,3,1755025764
+user_8,chemistry,Unit 6 Kinetics,4,1755025269
+user_8,chemistry,Unit 4 Stoichiometry,4,1755025243
+user_8,chemistry,Unit 2 Periodic Table,1,1755025466
+user_8,chemistry,Unit 5 Energetics,1,1755025752
+user_8,chemistry,Unit 9 Redox,5,1755025038
+user_8,chemistry,Unit 3 Bonding,3,1755025214
+user_8,business,Chapter 1 Business Activity,2,1755025229
+user_8,business,Chapter 10 Innovation,2,1755025469
+user_8,business,Chapter 4 Operations,1,1755025562
+user_8,business,Chapter 2 Marketing,2,1755025461
+user_8,business,Chapter 9 Strategic Management,3,1755025770
+user_8,business,Chapter 5 Human Resources,3,1755025156
+user_8,ict,Topic 10 Emerging Technologies,2,1755025062
+user_8,ict,Topic 2 Software,5,1755025692
+user_8,ict,Topic 3 Networks,2,1755025089
+user_8,ict,Topic 8 Programming,3,1755025855
+user_8,ict,Topic 1 Hardware,5,1755025809
+user_8,ict,Topic 5 Security,1,1755025800
+user_8,ict,Topic 6 Internet,5,1755025786
+user_8,ict,Topic 9 AI,1,1755025340
+user_8,ict,Topic 7 Multimedia,5,1755025423
+user_8,ict,Topic 4 Databases,3,1755025055
+user_9,biology,Unit 6 Ecology,4,1755025165
+user_9,biology,Unit 1 Cells,5,1755025973
+user_9,biology,Unit 7 Immunity,3,1755025615
+user_9,biology,Unit 8 Plant Transport,5,1755025778
+user_9,biology,Unit 4 Photosynthesis,4,1755025461
+user_9,biology,Unit 9 Human Transport,4,1755025830
+user_9,biology,Unit 10 Homeostasis,5,1755025259
+user_9,biology,Unit 2 Enzymes,3,1755025857
+user_9,biology,Unit 3 Respiration,2,1755025835
+user_9,biology,Unit 5 Genetics,1,1755025270
+user_9,chemistry,Unit 4 Stoichiometry,2,1755025348
+user_9,chemistry,Unit 8 Acids and Bases,3,1755025333
+user_9,chemistry,Unit 7 Equilibria,3,1755025886
+user_9,chemistry,Unit 3 Bonding,5,1755025703
+user_9,chemistry,Unit 1 Atomic Structure,3,1755025554
+user_9,chemistry,Unit 10 Organic Chemistry,1,1755025514
+user_9,chemistry,Unit 9 Redox,2,1755025072
+user_9,chemistry,Unit 6 Kinetics,2,1755025722
+user_9,chemistry,Unit 2 Periodic Table,4,1755025485
+user_9,business,Chapter 4 Operations,3,1755025664
+user_9,business,Chapter 8 Ethics,5,1755025362
+user_9,business,Chapter 9 Strategic Management,4,1755025551
+user_9,business,Chapter 10 Innovation,5,1755025337
+user_9,business,Chapter 1 Business Activity,4,1755025748
+user_9,business,Chapter 6 Business Growth,5,1755025323
+user_9,business,Chapter 3 Finance,3,1755025704
+user_9,business,Chapter 5 Human Resources,4,1755025262
+user_9,business,Chapter 2 Marketing,3,1755025242
+user_9,business,Chapter 7 External Environment,2,1755025108
+user_9,ict,Topic 6 Internet,5,1755025985
+user_9,ict,Topic 2 Software,5,1755025596
+user_9,ict,Topic 3 Networks,3,1755025087
+user_9,ict,Topic 9 AI,2,1755025288
+user_9,ict,Topic 7 Multimedia,2,1755025354
+user_9,ict,Topic 4 Databases,2,1755025294
+user_9,ict,Topic 8 Programming,1,1755025710
+user_10,biology,Unit 3 Respiration,1,1755025572
+user_10,biology,Unit 5 Genetics,3,1755025465
+user_10,biology,Unit 1 Cells,4,1755025436
+user_10,biology,Unit 8 Plant Transport,3,1755025173
+user_10,biology,Unit 9 Human Transport,1,1755025243
+user_10,biology,Unit 10 Homeostasis,4,1755025101
+user_10,biology,Unit 2 Enzymes,1,1755025395
+user_10,biology,Unit 6 Ecology,4,1755025060
+user_10,biology,Unit 4 Photosynthesis,5,1755025629
+user_10,biology,Unit 7 Immunity,1,1755025140
+user_10,chemistry,Unit 10 Organic Chemistry,5,1755025595
+user_10,chemistry,Unit 5 Energetics,5,1755025216
+user_10,chemistry,Unit 2 Periodic Table,5,1755025374
+user_10,chemistry,Unit 8 Acids and Bases,4,1755025915
+user_10,chemistry,Unit 1 Atomic Structure,4,1755025289
+user_10,chemistry,Unit 9 Redox,5,1755025424
+user_10,chemistry,Unit 4 Stoichiometry,3,1755025567
+user_10,business,Chapter 1 Business Activity,5,1755025061
+user_10,business,Chapter 2 Marketing,2,1755024987
+user_10,business,Chapter 4 Operations,4,1755025446
+user_10,business,Chapter 6 Business Growth,5,1755025466
+user_10,business,Chapter 9 Strategic Management,3,1755025018
+user_10,business,Chapter 3 Finance,2,1755025280
+user_10,business,Chapter 10 Innovation,3,1755025704
+user_10,business,Chapter 8 Ethics,4,1755025057
+user_10,business,Chapter 5 Human Resources,2,1755025931
+user_10,business,Chapter 7 External Environment,3,1755025791
+user_10,ict,Topic 4 Databases,2,1755025796
+user_10,ict,Topic 7 Multimedia,3,1755025594
+user_10,ict,Topic 2 Software,5,1755025928
+user_10,ict,Topic 5 Security,3,1755025434
+user_10,ict,Topic 8 Programming,1,1755025464
+user_10,ict,Topic 6 Internet,3,1755025701
+user_10,ict,Topic 3 Networks,4,1755025950
+user_10,ict,Topic 1 Hardware,3,1755025497
+user_10,ict,Topic 10 Emerging Technologies,5,1755025490
+user_10,ict,Topic 9 AI,4,1755025067
+user_11,biology,Unit 1 Cells,5,1755025026
+user_11,biology,Unit 7 Immunity,2,1755025466
+user_11,biology,Unit 6 Ecology,5,1755025652
+user_11,biology,Unit 5 Genetics,4,1755025923
+user_11,biology,Unit 3 Respiration,3,1755025170
+user_11,biology,Unit 10 Homeostasis,5,1755025431
+user_11,biology,Unit 9 Human Transport,4,1755025977
+user_11,biology,Unit 4 Photosynthesis,1,1755025466
+user_11,biology,Unit 8 Plant Transport,3,1755025403
+user_11,biology,Unit 2 Enzymes,3,1755025313
+user_11,chemistry,Unit 3 Bonding,4,1755025818
+user_11,chemistry,Unit 6 Kinetics,5,1755025022
+user_11,chemistry,Unit 7 Equilibria,4,1755025075
+user_11,chemistry,Unit 9 Redox,3,1755025243
+user_11,chemistry,Unit 4 Stoichiometry,3,1755025103
+user_11,chemistry,Unit 10 Organic Chemistry,4,1755025870
+user_11,business,Chapter 1 Business Activity,1,1755025193
+user_11,business,Chapter 9 Strategic Management,3,1755025547
+user_11,business,Chapter 8 Ethics,2,1755025934
+user_11,business,Chapter 4 Operations,3,1755025433
+user_11,business,Chapter 10 Innovation,4,1755025109
+user_11,business,Chapter 2 Marketing,1,1755025981
+user_11,business,Chapter 3 Finance,5,1755025803
+user_11,business,Chapter 7 External Environment,2,1755025711
+user_11,business,Chapter 5 Human Resources,2,1755025303
+user_11,business,Chapter 6 Business Growth,5,1755024999
+user_11,ict,Topic 7 Multimedia,3,1755025506
+user_11,ict,Topic 2 Software,3,1755025410
+user_11,ict,Topic 4 Databases,4,1755025468
+user_11,ict,Topic 10 Emerging Technologies,2,1755025452
+user_11,ict,Topic 1 Hardware,5,1755025133
+user_11,ict,Topic 8 Programming,4,1755025180
+user_11,ict,Topic 6 Internet,5,1755025505
+user_11,ict,Topic 3 Networks,2,1755025869
+user_11,ict,Topic 5 Security,1,1755025267
+user_11,ict,Topic 9 AI,4,1755025333
+user_12,biology,Unit 5 Genetics,3,1755025325
+user_12,biology,Unit 1 Cells,5,1755025766
+user_12,biology,Unit 10 Homeostasis,5,1755025371
+user_12,biology,Unit 6 Ecology,4,1755025940
+user_12,biology,Unit 3 Respiration,3,1755025875
+user_12,biology,Unit 8 Plant Transport,2,1755025699
+user_12,biology,Unit 4 Photosynthesis,2,1755025570
+user_12,biology,Unit 9 Human Transport,4,1755025224
+user_12,biology,Unit 2 Enzymes,4,1755025029
+user_12,biology,Unit 7 Immunity,3,1755025747
+user_12,chemistry,Unit 7 Equilibria,1,1755025523
+user_12,chemistry,Unit 10 Organic Chemistry,4,1755025000
+user_12,chemistry,Unit 3 Bonding,2,1755025404
+user_12,chemistry,Unit 4 Stoichiometry,2,1755025061
+user_12,chemistry,Unit 1 Atomic Structure,4,1755025785
+user_12,chemistry,Unit 2 Periodic Table,3,1755025331
+user_12,chemistry,Unit 8 Acids and Bases,5,1755025694
+user_12,chemistry,Unit 6 Kinetics,4,1755025650
+user_12,chemistry,Unit 5 Energetics,1,1755025857
+user_12,business,Chapter 9 Strategic Management,1,1755025225
+user_12,business,Chapter 7 External Environment,3,1755025217
+user_12,business,Chapter 6 Business Growth,1,1755025429
+user_12,business,Chapter 8 Ethics,1,1755025763
+user_12,business,Chapter 10 Innovation,1,1755025439
+user_12,business,Chapter 4 Operations,2,1755025695
+user_12,business,Chapter 1 Business Activity,3,1755025910
+user_12,business,Chapter 3 Finance,1,1755025032
+user_12,ict,Topic 1 Hardware,4,1755025564
+user_12,ict,Topic 5 Security,2,1755025159
+user_12,ict,Topic 6 Internet,2,1755025065
+user_12,ict,Topic 3 Networks,5,1755025876
+user_12,ict,Topic 4 Databases,4,1755025619
+user_12,ict,Topic 2 Software,2,1755025494
+user_12,ict,Topic 9 AI,5,1755025131
+user_12,ict,Topic 7 Multimedia,2,1755025457
+user_13,biology,Unit 8 Plant Transport,4,1755025952
+user_13,biology,Unit 5 Genetics,3,1755025586
+user_13,biology,Unit 1 Cells,3,1755025639
+user_13,biology,Unit 7 Immunity,4,1755025691
+user_13,biology,Unit 4 Photosynthesis,3,1755025452
+user_13,biology,Unit 3 Respiration,3,1755025188
+user_13,biology,Unit 2 Enzymes,4,1755025858
+user_13,biology,Unit 10 Homeostasis,4,1755025094
+user_13,chemistry,Unit 7 Equilibria,3,1755024993
+user_13,chemistry,Unit 6 Kinetics,5,1755025870
+user_13,chemistry,Unit 5 Energetics,1,1755025917
+user_13,chemistry,Unit 9 Redox,5,1755025748
+user_13,chemistry,Unit 3 Bonding,4,1755025837
+user_13,chemistry,Unit 1 Atomic Structure,3,1755025779
+user_13,chemistry,Unit 4 Stoichiometry,2,1755025606
+user_13,business,Chapter 4 Operations,1,1755025301
+user_13,business,Chapter 10 Innovation,4,1755025019
+user_13,business,Chapter 5 Human Resources,5,1755025358
+user_13,business,Chapter 6 Business Growth,2,1755025077
+user_13,business,Chapter 7 External Environment,3,1755025319
+user_13,business,Chapter 2 Marketing,4,1755025164
+user_13,business,Chapter 1 Business Activity,2,1755025120
+user_13,business,Chapter 3 Finance,5,1755025882
+user_13,ict,Topic 9 AI,3,1755025808
+user_13,ict,Topic 10 Emerging Technologies,1,1755025464
+user_13,ict,Topic 5 Security,1,1755025129
+user_13,ict,Topic 7 Multimedia,2,1755025865
+user_13,ict,Topic 2 Software,4,1755025975
+user_13,ict,Topic 3 Networks,5,1755025359
+user_13,ict,Topic 4 Databases,1,1755025794
+user_13,ict,Topic 6 Internet,4,1755024999
+user_14,biology,Unit 9 Human Transport,3,1755025095
+user_14,biology,Unit 2 Enzymes,2,1755025467
+user_14,biology,Unit 8 Plant Transport,1,1755025619
+user_14,biology,Unit 3 Respiration,5,1755025320
+user_14,biology,Unit 6 Ecology,5,1755025211
+user_14,biology,Unit 7 Immunity,1,1755025635
+user_14,biology,Unit 4 Photosynthesis,4,1755025916
+user_14,biology,Unit 5 Genetics,3,1755025649
+user_14,chemistry,Unit 2 Periodic Table,5,1755025123
+user_14,chemistry,Unit 3 Bonding,4,1755025449
+user_14,chemistry,Unit 1 Atomic Structure,3,1755025671
+user_14,chemistry,Unit 8 Acids and Bases,5,1755025414
+user_14,chemistry,Unit 9 Redox,5,1755025745
+user_14,chemistry,Unit 4 Stoichiometry,2,1755025891
+user_14,chemistry,Unit 7 Equilibria,4,1755025655
+user_14,chemistry,Unit 5 Energetics,1,1755025838
+user_14,chemistry,Unit 6 Kinetics,4,1755025615
+user_14,business,Chapter 5 Human Resources,3,1755025542
+user_14,business,Chapter 1 Business Activity,3,1755025047
+user_14,business,Chapter 6 Business Growth,4,1755025267
+user_14,business,Chapter 2 Marketing,2,1755025976
+user_14,business,Chapter 4 Operations,1,1755025956
+user_14,business,Chapter 8 Ethics,4,1755025078
+user_14,business,Chapter 7 External Environment,2,1755025642
+user_14,business,Chapter 10 Innovation,5,1755025979
+user_14,business,Chapter 9 Strategic Management,1,1755025036
+user_14,ict,Topic 4 Databases,3,1755025777
+user_14,ict,Topic 3 Networks,2,1755025792
+user_14,ict,Topic 10 Emerging Technologies,5,1755024987
+user_14,ict,Topic 1 Hardware,3,1755025864
+user_14,ict,Topic 5 Security,2,1755025118
+user_14,ict,Topic 2 Software,5,1755025241
+user_14,ict,Topic 6 Internet,2,1755025097
+user_14,ict,Topic 7 Multimedia,1,1755025119
+user_15,biology,Unit 6 Ecology,1,1755025114
+user_15,biology,Unit 4 Photosynthesis,4,1755025523
+user_15,biology,Unit 10 Homeostasis,1,1755025748
+user_15,biology,Unit 1 Cells,1,1755025472
+user_15,biology,Unit 2 Enzymes,4,1755025781
+user_15,biology,Unit 3 Respiration,3,1755025510
+user_15,chemistry,Unit 2 Periodic Table,4,1755025852
+user_15,chemistry,Unit 8 Acids and Bases,4,1755025421
+user_15,chemistry,Unit 4 Stoichiometry,1,1755025487
+user_15,chemistry,Unit 5 Energetics,4,1755025060
+user_15,chemistry,Unit 1 Atomic Structure,1,1755025314
+user_15,chemistry,Unit 7 Equilibria,5,1755025136
+user_15,chemistry,Unit 3 Bonding,1,1755025114
+user_15,chemistry,Unit 10 Organic Chemistry,3,1755025624
+user_15,chemistry,Unit 6 Kinetics,5,1755025546
+user_15,chemistry,Unit 9 Redox,3,1755025375
+user_15,business,Chapter 9 Strategic Management,4,1755025447
+user_15,business,Chapter 5 Human Resources,2,1755025408
+user_15,business,Chapter 8 Ethics,3,1755025832
+user_15,business,Chapter 10 Innovation,4,1755025393
+user_15,business,Chapter 7 External Environment,4,1755025732
+user_15,business,Chapter 4 Operations,1,1755025305
+user_15,business,Chapter 1 Business Activity,4,1755025305
+user_15,business,Chapter 3 Finance,3,1755025368
+user_15,business,Chapter 6 Business Growth,2,1755025688
+user_15,business,Chapter 2 Marketing,4,1755025053
+user_15,ict,Topic 2 Software,2,1755025554
+user_15,ict,Topic 10 Emerging Technologies,1,1755025585
+user_15,ict,Topic 7 Multimedia,5,1755025560
+user_15,ict,Topic 1 Hardware,3,1755025671
+user_15,ict,Topic 6 Internet,1,1755025405
+user_15,ict,Topic 3 Networks,3,1755025879
+user_16,biology,Unit 1 Cells,2,1755025852
+user_16,biology,Unit 5 Genetics,1,1755025343
+user_16,biology,Unit 9 Human Transport,5,1755025361
+user_16,biology,Unit 3 Respiration,1,1755025765
+user_16,biology,Unit 10 Homeostasis,3,1755025572
+user_16,biology,Unit 8 Plant Transport,2,1755025811
+user_16,biology,Unit 2 Enzymes,4,1755025850
+user_16,biology,Unit 6 Ecology,5,1755025982
+user_16,biology,Unit 4 Photosynthesis,5,1755025613
+user_16,chemistry,Unit 1 Atomic Structure,2,1755025564
+user_16,chemistry,Unit 5 Energetics,4,1755025056
+user_16,chemistry,Unit 10 Organic Chemistry,2,1755025743
+user_16,chemistry,Unit 2 Periodic Table,1,1755025078
+user_16,chemistry,Unit 3 Bonding,5,1755025205
+user_16,chemistry,Unit 6 Kinetics,4,1755025414
+user_16,chemistry,Unit 9 Redox,4,1755025334
+user_16,chemistry,Unit 7 Equilibria,2,1755025363
+user_16,chemistry,Unit 8 Acids and Bases,3,1755025723
+user_16,chemistry,Unit 4 Stoichiometry,3,1755025780
+user_16,business,Chapter 10 Innovation,4,1755025662
+user_16,business,Chapter 2 Marketing,4,1755025482
+user_16,business,Chapter 1 Business Activity,5,1755025437
+user_16,business,Chapter 9 Strategic Management,4,1755025264
+user_16,business,Chapter 7 External Environment,2,1755025758
+user_16,business,Chapter 5 Human Resources,5,1755025101
+user_16,business,Chapter 8 Ethics,3,1755025425
+user_16,business,Chapter 3 Finance,1,1755025275
+user_16,business,Chapter 4 Operations,5,1755025483
+user_16,business,Chapter 6 Business Growth,5,1755025668
+user_16,ict,Topic 1 Hardware,2,1755025770
+user_16,ict,Topic 4 Databases,2,1755025767
+user_16,ict,Topic 7 Multimedia,3,1755025281
+user_16,ict,Topic 5 Security,3,1755025107
+user_16,ict,Topic 10 Emerging Technologies,1,1755025494
+user_16,ict,Topic 6 Internet,4,1755025164
+user_16,ict,Topic 2 Software,2,1755025374
+user_16,ict,Topic 9 AI,5,1755025705
+user_17,biology,Unit 9 Human Transport,1,1755025455
+user_17,biology,Unit 10 Homeostasis,1,1755025867
+user_17,biology,Unit 6 Ecology,3,1755025574
+user_17,biology,Unit 1 Cells,4,1755025572
+user_17,biology,Unit 4 Photosynthesis,4,1755025711
+user_17,biology,Unit 7 Immunity,4,1755025281
+user_17,biology,Unit 8 Plant Transport,1,1755025399
+user_17,chemistry,Unit 6 Kinetics,1,1755025432
+user_17,chemistry,Unit 3 Bonding,1,1755025234
+user_17,chemistry,Unit 8 Acids and Bases,4,1755025588
+user_17,chemistry,Unit 7 Equilibria,4,1755025521
+user_17,chemistry,Unit 10 Organic Chemistry,1,1755025390
+user_17,chemistry,Unit 9 Redox,3,1755025748
+user_17,business,Chapter 4 Operations,3,1755025729
+user_17,business,Chapter 6 Business Growth,2,1755025226
+user_17,business,Chapter 3 Finance,1,1755025134
+user_17,business,Chapter 1 Business Activity,3,1755025187
+user_17,business,Chapter 5 Human Resources,2,1755025601
+user_17,business,Chapter 7 External Environment,2,1755025763
+user_17,business,Chapter 2 Marketing,1,1755025166
+user_17,business,Chapter 10 Innovation,4,1755025460
+user_17,ict,Topic 10 Emerging Technologies,4,1755025631
+user_17,ict,Topic 8 Programming,3,1755025800
+user_17,ict,Topic 6 Internet,3,1755025590
+user_17,ict,Topic 7 Multimedia,1,1755025345
+user_17,ict,Topic 9 AI,5,1755025060
+user_17,ict,Topic 3 Networks,3,1755025457
+user_17,ict,Topic 2 Software,4,1755025023
+user_17,ict,Topic 4 Databases,1,1755025362
+user_17,ict,Topic 1 Hardware,3,1755025063
+user_17,ict,Topic 5 Security,1,1755025614
+user_18,biology,Unit 9 Human Transport,5,1755025472
+user_18,biology,Unit 7 Immunity,5,1755025139
+user_18,biology,Unit 8 Plant Transport,1,1755025446
+user_18,biology,Unit 5 Genetics,1,1755025815
+user_18,biology,Unit 10 Homeostasis,3,1755025716
+user_18,biology,Unit 1 Cells,1,1755025501
+user_18,biology,Unit 4 Photosynthesis,2,1755025025
+user_18,biology,Unit 3 Respiration,2,1755025709
+user_18,biology,Unit 6 Ecology,4,1755025434
+user_18,biology,Unit 2 Enzymes,5,1755025520
+user_18,chemistry,Unit 3 Bonding,1,1755025322
+user_18,chemistry,Unit 6 Kinetics,1,1755025556
+user_18,chemistry,Unit 9 Redox,4,1755025275
+user_18,chemistry,Unit 10 Organic Chemistry,3,1755025726
+user_18,chemistry,Unit 4 Stoichiometry,5,1755025879
+user_18,chemistry,Unit 8 Acids and Bases,2,1755025326
+user_18,chemistry,Unit 7 Equilibria,1,1755025581
+user_18,chemistry,Unit 5 Energetics,2,1755025923
+user_18,chemistry,Unit 1 Atomic Structure,3,1755025302
+user_18,chemistry,Unit 2 Periodic Table,4,1755025117
+user_18,business,Chapter 2 Marketing,1,1755025356
+user_18,business,Chapter 5 Human Resources,3,1755025169
+user_18,business,Chapter 7 External Environment,2,1755025334
+user_18,business,Chapter 6 Business Growth,4,1755025181
+user_18,business,Chapter 3 Finance,2,1755025125
+user_18,business,Chapter 10 Innovation,2,1755025064
+user_18,business,Chapter 1 Business Activity,3,1755025849
+user_18,business,Chapter 8 Ethics,1,1755025504
+user_18,business,Chapter 9 Strategic Management,5,1755025840
+user_18,business,Chapter 4 Operations,5,1755025023
+user_18,ict,Topic 10 Emerging Technologies,4,1755025029
+user_18,ict,Topic 3 Networks,4,1755025358
+user_18,ict,Topic 7 Multimedia,2,1755025977
+user_18,ict,Topic 2 Software,4,1755025610
+user_18,ict,Topic 8 Programming,3,1755025755
+user_18,ict,Topic 6 Internet,4,1755025224
+user_18,ict,Topic 5 Security,5,1755025229
+user_18,ict,Topic 9 AI,3,1755025973
+user_19,biology,Unit 4 Photosynthesis,5,1755025126
+user_19,biology,Unit 6 Ecology,3,1755025038
+user_19,biology,Unit 8 Plant Transport,4,1755025880
+user_19,biology,Unit 10 Homeostasis,3,1755025552
+user_19,biology,Unit 3 Respiration,1,1755025713
+user_19,biology,Unit 7 Immunity,5,1755025856
+user_19,biology,Unit 5 Genetics,1,1755025276
+user_19,biology,Unit 1 Cells,1,1755025766
+user_19,biology,Unit 9 Human Transport,2,1755025264
+user_19,chemistry,Unit 9 Redox,1,1755025390
+user_19,chemistry,Unit 3 Bonding,5,1755025367
+user_19,chemistry,Unit 7 Equilibria,2,1755025380
+user_19,chemistry,Unit 1 Atomic Structure,1,1755025368
+user_19,chemistry,Unit 2 Periodic Table,2,1755025013
+user_19,chemistry,Unit 4 Stoichiometry,3,1755025938
+user_19,chemistry,Unit 10 Organic Chemistry,1,1755025844
+user_19,chemistry,Unit 8 Acids and Bases,3,1755025795
+user_19,chemistry,Unit 6 Kinetics,2,1755025125
+user_19,business,Chapter 5 Human Resources,4,1755025615
+user_19,business,Chapter 8 Ethics,1,1755025912
+user_19,business,Chapter 3 Finance,1,1755025004
+user_19,business,Chapter 7 External Environment,3,1755025205
+user_19,business,Chapter 6 Business Growth,2,1755025546
+user_19,business,Chapter 4 Operations,5,1755025525
+user_19,ict,Topic 2 Software,1,1755025098
+user_19,ict,Topic 5 Security,4,1755025596
+user_19,ict,Topic 4 Databases,5,1755025001
+user_19,ict,Topic 3 Networks,5,1755025573
+user_19,ict,Topic 1 Hardware,2,1755025720
+user_19,ict,Topic 6 Internet,2,1755025283
+user_19,ict,Topic 10 Emerging Technologies,4,1755024986
+user_19,ict,Topic 8 Programming,5,1755025346
+user_19,ict,Topic 7 Multimedia,2,1755025569
+user_20,biology,Unit 3 Respiration,1,1755025635
+user_20,biology,Unit 2 Enzymes,4,1755025367
+user_20,biology,Unit 6 Ecology,3,1755025750
+user_20,biology,Unit 1 Cells,1,1755025350
+user_20,biology,Unit 5 Genetics,1,1755025338
+user_20,biology,Unit 8 Plant Transport,2,1755025735
+user_20,biology,Unit 7 Immunity,1,1755025775
+user_20,biology,Unit 9 Human Transport,5,1755025737
+user_20,biology,Unit 10 Homeostasis,3,1755025121
+user_20,chemistry,Unit 6 Kinetics,4,1755025697
+user_20,chemistry,Unit 9 Redox,4,1755025631
+user_20,chemistry,Unit 10 Organic Chemistry,2,1755025815
+user_20,chemistry,Unit 7 Equilibria,2,1755025049
+user_20,chemistry,Unit 8 Acids and Bases,4,1755025022
+user_20,chemistry,Unit 2 Periodic Table,3,1755025191
+user_20,business,Chapter 4 Operations,5,1755025469
+user_20,business,Chapter 1 Business Activity,3,1755025022
+user_20,business,Chapter 6 Business Growth,2,1755025277
+user_20,business,Chapter 3 Finance,3,1755025867
+user_20,business,Chapter 5 Human Resources,1,1755025871
+user_20,business,Chapter 10 Innovation,3,1755025264
+user_20,ict,Topic 6 Internet,3,1755025982
+user_20,ict,Topic 7 Multimedia,2,1755025493
+user_20,ict,Topic 9 AI,4,1755025361
+user_20,ict,Topic 10 Emerging Technologies,5,1755025258
+user_20,ict,Topic 4 Databases,1,1755025729
+user_20,ict,Topic 8 Programming,4,1755025065
+user_21,biology,Unit 10 Homeostasis,3,1755025441
+user_21,biology,Unit 3 Respiration,5,1755025719
+user_21,biology,Unit 5 Genetics,4,1755025155
+user_21,biology,Unit 9 Human Transport,4,1755025344
+user_21,biology,Unit 1 Cells,4,1755025028
+user_21,biology,Unit 6 Ecology,3,1755025614
+user_21,biology,Unit 7 Immunity,4,1755025266
+user_21,biology,Unit 4 Photosynthesis,1,1755025061
+user_21,biology,Unit 2 Enzymes,4,1755025357
+user_21,chemistry,Unit 3 Bonding,3,1755025355
+user_21,chemistry,Unit 1 Atomic Structure,4,1755025957
+user_21,chemistry,Unit 10 Organic Chemistry,5,1755025018
+user_21,chemistry,Unit 7 Equilibria,5,1755025142
+user_21,chemistry,Unit 5 Energetics,4,1755025956
+user_21,chemistry,Unit 4 Stoichiometry,3,1755025365
+user_21,chemistry,Unit 9 Redox,4,1755025766
+user_21,chemistry,Unit 6 Kinetics,1,1755025572
+user_21,chemistry,Unit 8 Acids and Bases,2,1755025527
+user_21,chemistry,Unit 2 Periodic Table,3,1755025392
+user_21,business,Chapter 5 Human Resources,4,1755025920
+user_21,business,Chapter 4 Operations,5,1755025105
+user_21,business,Chapter 2 Marketing,3,1755025778
+user_21,business,Chapter 1 Business Activity,3,1755025705
+user_21,business,Chapter 6 Business Growth,4,1755025204
+user_21,business,Chapter 8 Ethics,5,1755025277
+user_21,business,Chapter 9 Strategic Management,4,1755025189
+user_21,business,Chapter 3 Finance,1,1755025123
+user_21,ict,Topic 8 Programming,3,1755025711
+user_21,ict,Topic 3 Networks,1,1755025548
+user_21,ict,Topic 10 Emerging Technologies,5,1755025282
+user_21,ict,Topic 1 Hardware,3,1755025856
+user_21,ict,Topic 6 Internet,2,1755025713
+user_21,ict,Topic 9 AI,2,1755025797
+user_22,biology,Unit 9 Human Transport,3,1755025552
+user_22,biology,Unit 4 Photosynthesis,5,1755025362
+user_22,biology,Unit 2 Enzymes,4,1755025807
+user_22,biology,Unit 8 Plant Transport,5,1755025117
+user_22,biology,Unit 7 Immunity,5,1755025890
+user_22,biology,Unit 6 Ecology,1,1755025052
+user_22,biology,Unit 10 Homeostasis,3,1755025392
+user_22,biology,Unit 1 Cells,4,1755025523
+user_22,chemistry,Unit 7 Equilibria,2,1755025884
+user_22,chemistry,Unit 2 Periodic Table,5,1755025640
+user_22,chemistry,Unit 3 Bonding,5,1755025171
+user_22,chemistry,Unit 8 Acids and Bases,2,1755025428
+user_22,chemistry,Unit 6 Kinetics,5,1755025917
+user_22,chemistry,Unit 1 Atomic Structure,1,1755025836
+user_22,chemistry,Unit 4 Stoichiometry,1,1755025515
+user_22,chemistry,Unit 9 Redox,2,1755025296
+user_22,chemistry,Unit 10 Organic Chemistry,2,1755025150
+user_22,business,Chapter 4 Operations,5,1755025266
+user_22,business,Chapter 6 Business Growth,2,1755025625
+user_22,business,Chapter 5 Human Resources,3,1755025614
+user_22,business,Chapter 7 External Environment,5,1755025080
+user_22,business,Chapter 1 Business Activity,5,1755025641
+user_22,business,Chapter 3 Finance,2,1755025591
+user_22,business,Chapter 2 Marketing,5,1755025142
+user_22,business,Chapter 8 Ethics,2,1755025659
+user_22,ict,Topic 10 Emerging Technologies,5,1755025411
+user_22,ict,Topic 6 Internet,5,1755025639
+user_22,ict,Topic 1 Hardware,1,1755025494
+user_22,ict,Topic 7 Multimedia,5,1755025281
+user_22,ict,Topic 8 Programming,3,1755025479
+user_22,ict,Topic 9 AI,2,1755025809
+user_22,ict,Topic 5 Security,4,1755025289
+user_22,ict,Topic 3 Networks,4,1755025059
+user_22,ict,Topic 2 Software,1,1755025146
+user_22,ict,Topic 4 Databases,4,1755025410
+user_23,biology,Unit 8 Plant Transport,4,1755025118
+user_23,biology,Unit 4 Photosynthesis,3,1755025512
+user_23,biology,Unit 6 Ecology,5,1755025093
+user_23,biology,Unit 5 Genetics,3,1755025232
+user_23,biology,Unit 2 Enzymes,4,1755025110
+user_23,biology,Unit 3 Respiration,3,1755025445
+user_23,biology,Unit 7 Immunity,2,1755025129
+user_23,biology,Unit 9 Human Transport,1,1755025036
+user_23,biology,Unit 10 Homeostasis,3,1755025953
+user_23,chemistry,Unit 10 Organic Chemistry,4,1755025512
+user_23,chemistry,Unit 7 Equilibria,4,1755025495
+user_23,chemistry,Unit 4 Stoichiometry,3,1755025494
+user_23,chemistry,Unit 9 Redox,1,1755025077
+user_23,chemistry,Unit 2 Periodic Table,4,1755025502
+user_23,chemistry,Unit 3 Bonding,4,1755025974
+user_23,chemistry,Unit 5 Energetics,2,1755025205
+user_23,chemistry,Unit 1 Atomic Structure,5,1755025346
+user_23,chemistry,Unit 8 Acids and Bases,1,1755025036
+user_23,business,Chapter 8 Ethics,3,1755025729
+user_23,business,Chapter 10 Innovation,3,1755025767
+user_23,business,Chapter 5 Human Resources,4,1755025359
+user_23,business,Chapter 9 Strategic Management,1,1755025395
+user_23,business,Chapter 1 Business Activity,1,1755025568
+user_23,business,Chapter 6 Business Growth,5,1755025184
+user_23,business,Chapter 4 Operations,3,1755025551
+user_23,business,Chapter 7 External Environment,3,1755025060
+user_23,ict,Topic 9 AI,4,1755025367
+user_23,ict,Topic 8 Programming,3,1755025556
+user_23,ict,Topic 5 Security,3,1755025758
+user_23,ict,Topic 7 Multimedia,2,1755025188
+user_23,ict,Topic 10 Emerging Technologies,5,1755025506
+user_23,ict,Topic 6 Internet,4,1755025497
+user_23,ict,Topic 1 Hardware,1,1755025031
+user_23,ict,Topic 4 Databases,1,1755025125
+user_23,ict,Topic 3 Networks,3,1755025808
+user_24,biology,Unit 9 Human Transport,2,1755025387
+user_24,biology,Unit 8 Plant Transport,5,1755025742
+user_24,biology,Unit 3 Respiration,3,1755025592
+user_24,biology,Unit 5 Genetics,3,1755025504
+user_24,biology,Unit 7 Immunity,5,1755025530
+user_24,biology,Unit 2 Enzymes,4,1755025710
+user_24,biology,Unit 10 Homeostasis,5,1755025291
+user_24,biology,Unit 4 Photosynthesis,4,1755025820
+user_24,biology,Unit 6 Ecology,1,1755025362
+user_24,chemistry,Unit 2 Periodic Table,5,1755025576
+user_24,chemistry,Unit 7 Equilibria,2,1755025723
+user_24,chemistry,Unit 5 Energetics,1,1755025582
+user_24,chemistry,Unit 9 Redox,4,1755025159
+user_24,chemistry,Unit 6 Kinetics,5,1755025629
+user_24,chemistry,Unit 1 Atomic Structure,5,1755025778
+user_24,chemistry,Unit 4 Stoichiometry,4,1755025136
+user_24,chemistry,Unit 10 Organic Chemistry,2,1755025017
+user_24,business,Chapter 2 Marketing,5,1755025778
+user_24,business,Chapter 4 Operations,5,1755025927
+user_24,business,Chapter 1 Business Activity,4,1755025878
+user_24,business,Chapter 9 Strategic Management,1,1755025707
+user_24,business,Chapter 3 Finance,2,1755025516
+user_24,business,Chapter 7 External Environment,2,1755025559
+user_24,business,Chapter 10 Innovation,3,1755025663
+user_24,business,Chapter 5 Human Resources,4,1755025523
+user_24,business,Chapter 8 Ethics,4,1755025306
+user_24,business,Chapter 6 Business Growth,2,1755025455
+user_24,ict,Topic 6 Internet,5,1755025290
+user_24,ict,Topic 9 AI,2,1755025949
+user_24,ict,Topic 10 Emerging Technologies,3,1755025774
+user_24,ict,Topic 8 Programming,3,1755025706
+user_24,ict,Topic 7 Multimedia,2,1755025691
+user_24,ict,Topic 3 Networks,4,1755025309
+user_24,ict,Topic 4 Databases,4,1755025342
+user_24,ict,Topic 1 Hardware,5,1755025941
+user_24,ict,Topic 5 Security,3,1755025279
+user_24,ict,Topic 2 Software,1,1755025572
+user_25,biology,Unit 7 Immunity,4,1755025656
+user_25,biology,Unit 10 Homeostasis,3,1755025750
+user_25,biology,Unit 6 Ecology,4,1755025204
+user_25,biology,Unit 9 Human Transport,2,1755025832
+user_25,biology,Unit 2 Enzymes,5,1755025262
+user_25,biology,Unit 3 Respiration,5,1755025697
+user_25,biology,Unit 1 Cells,3,1755025125
+user_25,biology,Unit 8 Plant Transport,1,1755025615
+user_25,biology,Unit 4 Photosynthesis,5,1755025230
+user_25,biology,Unit 5 Genetics,2,1755025036
+user_25,chemistry,Unit 4 Stoichiometry,5,1755025936
+user_25,chemistry,Unit 10 Organic Chemistry,2,1755025401
+user_25,chemistry,Unit 1 Atomic Structure,4,1755025473
+user_25,chemistry,Unit 8 Acids and Bases,2,1755025759
+user_25,chemistry,Unit 9 Redox,3,1755025313
+user_25,chemistry,Unit 3 Bonding,3,1755025646
+user_25,chemistry,Unit 6 Kinetics,1,1755025914
+user_25,chemistry,Unit 7 Equilibria,1,1755025652
+user_25,chemistry,Unit 5 Energetics,5,1755025222
+user_25,chemistry,Unit 2 Periodic Table,5,1755025741
+user_25,business,Chapter 3 Finance,2,1755025944
+user_25,business,Chapter 7 External Environment,3,1755025882
+user_25,business,Chapter 10 Innovation,1,1755024994
+user_25,business,Chapter 1 Business Activity,3,1755025566
+user_25,business,Chapter 4 Operations,5,1755025094
+user_25,business,Chapter 6 Business Growth,3,1755025276
+user_25,ict,Topic 9 AI,3,1755025151
+user_25,ict,Topic 10 Emerging Technologies,4,1755025648
+user_25,ict,Topic 8 Programming,3,1755025720
+user_25,ict,Topic 2 Software,2,1755024999
+user_25,ict,Topic 5 Security,3,1755025794
+user_25,ict,Topic 4 Databases,3,1755025566
+user_25,ict,Topic 3 Networks,2,1755025164
+user_25,ict,Topic 1 Hardware,5,1755025861
+user_25,ict,Topic 6 Internet,4,1755025831
+user_26,biology,Unit 9 Human Transport,3,1755025943
+user_26,biology,Unit 6 Ecology,2,1755024991
+user_26,biology,Unit 2 Enzymes,3,1755025377
+user_26,biology,Unit 4 Photosynthesis,2,1755025442
+user_26,biology,Unit 10 Homeostasis,3,1755025961
+user_26,biology,Unit 1 Cells,3,1755025294
+user_26,biology,Unit 8 Plant Transport,5,1755025725
+user_26,biology,Unit 5 Genetics,5,1755024996
+user_26,biology,Unit 7 Immunity,3,1755025654
+user_26,chemistry,Unit 4 Stoichiometry,5,1755025930
+user_26,chemistry,Unit 1 Atomic Structure,3,1755025691
+user_26,chemistry,Unit 2 Periodic Table,1,1755025639
+user_26,chemistry,Unit 10 Organic Chemistry,3,1755025361
+user_26,chemistry,Unit 3 Bonding,5,1755025211
+user_26,chemistry,Unit 8 Acids and Bases,2,1755025965
+user_26,chemistry,Unit 7 Equilibria,2,1755025474
+user_26,chemistry,Unit 6 Kinetics,2,1755025450
+user_26,business,Chapter 6 Business Growth,5,1755025705
+user_26,business,Chapter 7 External Environment,3,1755025064
+user_26,business,Chapter 8 Ethics,5,1755025099
+user_26,business,Chapter 9 Strategic Management,1,1755025833
+user_26,business,Chapter 5 Human Resources,5,1755025909
+user_26,business,Chapter 2 Marketing,5,1755025192
+user_26,business,Chapter 10 Innovation,5,1755025534
+user_26,business,Chapter 3 Finance,2,1755025153
+user_26,business,Chapter 1 Business Activity,3,1755025859
+user_26,business,Chapter 4 Operations,5,1755025437
+user_26,ict,Topic 4 Databases,4,1755025120
+user_26,ict,Topic 8 Programming,5,1755025410
+user_26,ict,Topic 2 Software,4,1755025562
+user_26,ict,Topic 5 Security,1,1755025557
+user_26,ict,Topic 10 Emerging Technologies,4,1755025673
+user_26,ict,Topic 1 Hardware,3,1755025725
+user_27,biology,Unit 7 Immunity,1,1755025031
+user_27,biology,Unit 5 Genetics,4,1755025337
+user_27,biology,Unit 1 Cells,1,1755025539
+user_27,biology,Unit 6 Ecology,1,1755025942
+user_27,biology,Unit 2 Enzymes,1,1755025941
+user_27,biology,Unit 9 Human Transport,4,1755025017
+user_27,chemistry,Unit 7 Equilibria,4,1755025875
+user_27,chemistry,Unit 3 Bonding,4,1755025369
+user_27,chemistry,Unit 9 Redox,1,1755025684
+user_27,chemistry,Unit 10 Organic Chemistry,5,1755025121
+user_27,chemistry,Unit 6 Kinetics,3,1755025106
+user_27,chemistry,Unit 4 Stoichiometry,2,1755025535
+user_27,chemistry,Unit 8 Acids and Bases,4,1755025526
+user_27,chemistry,Unit 2 Periodic Table,2,1755025730
+user_27,business,Chapter 1 Business Activity,5,1755025373
+user_27,business,Chapter 10 Innovation,2,1755025238
+user_27,business,Chapter 5 Human Resources,4,1755025339
+user_27,business,Chapter 4 Operations,2,1755025267
+user_27,business,Chapter 6 Business Growth,2,1755025944
+user_27,business,Chapter 8 Ethics,1,1755025017
+user_27,business,Chapter 7 External Environment,4,1755025614
+user_27,ict,Topic 4 Databases,4,1755025597
+user_27,ict,Topic 10 Emerging Technologies,1,1755025235
+user_27,ict,Topic 2 Software,1,1755025396
+user_27,ict,Topic 1 Hardware,4,1755025224
+user_27,ict,Topic 5 Security,5,1755025207
+user_27,ict,Topic 7 Multimedia,1,1755025128
+user_28,biology,Unit 5 Genetics,4,1755025292
+user_28,biology,Unit 4 Photosynthesis,3,1755025047
+user_28,biology,Unit 6 Ecology,5,1755025956
+user_28,biology,Unit 10 Homeostasis,5,1755025885
+user_28,biology,Unit 7 Immunity,2,1755025626
+user_28,biology,Unit 3 Respiration,4,1755025554
+user_28,biology,Unit 2 Enzymes,4,1755025033
+user_28,biology,Unit 9 Human Transport,3,1755025949
+user_28,biology,Unit 1 Cells,4,1755025789
+user_28,biology,Unit 8 Plant Transport,5,1755025311
+user_28,chemistry,Unit 7 Equilibria,3,1755025863
+user_28,chemistry,Unit 3 Bonding,2,1755025810
+user_28,chemistry,Unit 5 Energetics,4,1755025921
+user_28,chemistry,Unit 4 Stoichiometry,1,1755025560
+user_28,chemistry,Unit 2 Periodic Table,4,1755025976
+user_28,chemistry,Unit 8 Acids and Bases,4,1755025555
+user_28,chemistry,Unit 10 Organic Chemistry,5,1755025122
+user_28,chemistry,Unit 1 Atomic Structure,4,1755025233
+user_28,chemistry,Unit 9 Redox,3,1755025193
+user_28,business,Chapter 2 Marketing,4,1755025674
+user_28,business,Chapter 8 Ethics,5,1755025602
+user_28,business,Chapter 6 Business Growth,1,1755025879
+user_28,business,Chapter 1 Business Activity,1,1755025177
+user_28,business,Chapter 5 Human Resources,5,1755025726
+user_28,business,Chapter 10 Innovation,5,1755025207
+user_28,business,Chapter 7 External Environment,4,1755025198
+user_28,business,Chapter 9 Strategic Management,3,1755025295
+user_28,ict,Topic 4 Databases,5,1755025705
+user_28,ict,Topic 10 Emerging Technologies,2,1755025391
+user_28,ict,Topic 2 Software,2,1755025550
+user_28,ict,Topic 6 Internet,3,1755025779
+user_28,ict,Topic 9 AI,3,1755025374
+user_28,ict,Topic 8 Programming,4,1755025531
+user_29,biology,Unit 5 Genetics,4,1755025764
+user_29,biology,Unit 10 Homeostasis,3,1755025921
+user_29,biology,Unit 6 Ecology,2,1755025364
+user_29,biology,Unit 9 Human Transport,3,1755025408
+user_29,biology,Unit 4 Photosynthesis,1,1755025561
+user_29,biology,Unit 8 Plant Transport,2,1755025744
+user_29,biology,Unit 1 Cells,2,1755025001
+user_29,biology,Unit 3 Respiration,3,1755025551
+user_29,chemistry,Unit 10 Organic Chemistry,5,1755025655
+user_29,chemistry,Unit 7 Equilibria,3,1755025248
+user_29,chemistry,Unit 5 Energetics,4,1755025974
+user_29,chemistry,Unit 2 Periodic Table,4,1755025456
+user_29,chemistry,Unit 9 Redox,2,1755025735
+user_29,chemistry,Unit 3 Bonding,3,1755025158
+user_29,chemistry,Unit 6 Kinetics,2,1755025722
+user_29,chemistry,Unit 4 Stoichiometry,5,1755025485
+user_29,chemistry,Unit 1 Atomic Structure,2,1755025923
+user_29,chemistry,Unit 8 Acids and Bases,5,1755025642
+user_29,business,Chapter 9 Strategic Management,1,1755025407
+user_29,business,Chapter 1 Business Activity,2,1755025847
+user_29,business,Chapter 2 Marketing,2,1755025054
+user_29,business,Chapter 7 External Environment,2,1755024994
+user_29,business,Chapter 6 Business Growth,2,1755025502
+user_29,business,Chapter 10 Innovation,4,1755025367
+user_29,ict,Topic 10 Emerging Technologies,5,1755025406
+user_29,ict,Topic 8 Programming,1,1755025002
+user_29,ict,Topic 9 AI,5,1755025724
+user_29,ict,Topic 1 Hardware,3,1755025533
+user_29,ict,Topic 7 Multimedia,3,1755025002
+user_29,ict,Topic 5 Security,5,1755025817
+user_30,biology,Unit 3 Respiration,3,1755025258
+user_30,biology,Unit 2 Enzymes,4,1755025065
+user_30,biology,Unit 9 Human Transport,3,1755025967
+user_30,biology,Unit 5 Genetics,4,1755025455
+user_30,biology,Unit 8 Plant Transport,5,1755025234
+user_30,biology,Unit 6 Ecology,2,1755025292
+user_30,biology,Unit 7 Immunity,1,1755025654
+user_30,biology,Unit 10 Homeostasis,1,1755025080
+user_30,biology,Unit 4 Photosynthesis,4,1755025373
+user_30,chemistry,Unit 9 Redox,3,1755025564
+user_30,chemistry,Unit 8 Acids and Bases,1,1755025901
+user_30,chemistry,Unit 1 Atomic Structure,5,1755025926
+user_30,chemistry,Unit 6 Kinetics,1,1755025220
+user_30,chemistry,Unit 10 Organic Chemistry,2,1755025907
+user_30,chemistry,Unit 2 Periodic Table,5,1755025471
+user_30,chemistry,Unit 7 Equilibria,3,1755025032
+user_30,chemistry,Unit 5 Energetics,1,1755025685
+user_30,chemistry,Unit 3 Bonding,3,1755025905
+user_30,business,Chapter 10 Innovation,1,1755025291
+user_30,business,Chapter 1 Business Activity,2,1755025562
+user_30,business,Chapter 3 Finance,2,1755025565
+user_30,business,Chapter 7 External Environment,4,1755025678
+user_30,business,Chapter 8 Ethics,5,1755025324
+user_30,business,Chapter 9 Strategic Management,4,1755025758
+user_30,business,Chapter 2 Marketing,2,1755025794
+user_30,business,Chapter 6 Business Growth,1,1755025497
+user_30,business,Chapter 5 Human Resources,3,1755025039
+user_30,business,Chapter 4 Operations,1,1755025432
+user_30,ict,Topic 2 Software,4,1755025487
+user_30,ict,Topic 6 Internet,2,1755025349
+user_30,ict,Topic 7 Multimedia,5,1755025948
+user_30,ict,Topic 8 Programming,4,1755025427
+user_30,ict,Topic 3 Networks,2,1755025681
+user_30,ict,Topic 1 Hardware,5,1755025661
+user_30,ict,Topic 9 AI,4,1755025072
+user_31,biology,Unit 5 Genetics,3,1755025354
+user_31,biology,Unit 4 Photosynthesis,1,1755025078
+user_31,biology,Unit 2 Enzymes,1,1755025950
+user_31,biology,Unit 1 Cells,3,1755025440
+user_31,biology,Unit 3 Respiration,3,1755025764
+user_31,biology,Unit 8 Plant Transport,3,1755025089
+user_31,biology,Unit 9 Human Transport,2,1755025074
+user_31,biology,Unit 6 Ecology,2,1755025426
+user_31,biology,Unit 7 Immunity,4,1755025555
+user_31,biology,Unit 10 Homeostasis,5,1755025509
+user_31,chemistry,Unit 2 Periodic Table,3,1755025408
+user_31,chemistry,Unit 1 Atomic Structure,4,1755025782
+user_31,chemistry,Unit 10 Organic Chemistry,1,1755025727
+user_31,chemistry,Unit 3 Bonding,5,1755025911
+user_31,chemistry,Unit 5 Energetics,2,1755025570
+user_31,chemistry,Unit 9 Redox,5,1755025158
+user_31,chemistry,Unit 7 Equilibria,4,1755025158
+user_31,chemistry,Unit 8 Acids and Bases,2,1755025260
+user_31,chemistry,Unit 6 Kinetics,3,1755025259
+user_31,business,Chapter 3 Finance,3,1755025242
+user_31,business,Chapter 2 Marketing,2,1755025723
+user_31,business,Chapter 10 Innovation,4,1755025593
+user_31,business,Chapter 4 Operations,5,1755025185
+user_31,business,Chapter 8 Ethics,4,1755025094
+user_31,business,Chapter 7 External Environment,2,1755025296
+user_31,business,Chapter 6 Business Growth,1,1755025956
+user_31,business,Chapter 9 Strategic Management,4,1755025325
+user_31,business,Chapter 1 Business Activity,5,1755025374
+user_31,ict,Topic 8 Programming,3,1755025602
+user_31,ict,Topic 6 Internet,2,1755025475
+user_31,ict,Topic 7 Multimedia,3,1755025166
+user_31,ict,Topic 10 Emerging Technologies,4,1755025976
+user_31,ict,Topic 9 AI,3,1755025283
+user_31,ict,Topic 5 Security,4,1755025975
+user_31,ict,Topic 2 Software,5,1755025785
+user_31,ict,Topic 4 Databases,2,1755025318
+user_32,biology,Unit 5 Genetics,4,1755025950
+user_32,biology,Unit 7 Immunity,2,1755025433
+user_32,biology,Unit 6 Ecology,3,1755025836
+user_32,biology,Unit 1 Cells,1,1755025823
+user_32,biology,Unit 10 Homeostasis,4,1755025674
+user_32,biology,Unit 2 Enzymes,4,1755025127
+user_32,biology,Unit 8 Plant Transport,3,1755025232
+user_32,biology,Unit 3 Respiration,3,1755025659
+user_32,biology,Unit 9 Human Transport,2,1755025717
+user_32,chemistry,Unit 7 Equilibria,5,1755025022
+user_32,chemistry,Unit 2 Periodic Table,3,1755025703
+user_32,chemistry,Unit 8 Acids and Bases,5,1755025593
+user_32,chemistry,Unit 5 Energetics,1,1755025096
+user_32,chemistry,Unit 4 Stoichiometry,2,1755025658
+user_32,chemistry,Unit 10 Organic Chemistry,3,1755025155
+user_32,chemistry,Unit 6 Kinetics,5,1755025030
+user_32,chemistry,Unit 3 Bonding,5,1755025645
+user_32,chemistry,Unit 9 Redox,4,1755025975
+user_32,business,Chapter 7 External Environment,3,1755025385
+user_32,business,Chapter 2 Marketing,4,1755025775
+user_32,business,Chapter 1 Business Activity,5,1755025692
+user_32,business,Chapter 8 Ethics,5,1755025139
+user_32,business,Chapter 3 Finance,3,1755025010
+user_32,business,Chapter 9 Strategic Management,4,1755025092
+user_32,business,Chapter 5 Human Resources,3,1755025410
+user_32,business,Chapter 4 Operations,1,1755025103
+user_32,ict,Topic 6 Internet,3,1755025472
+user_32,ict,Topic 5 Security,1,1755025433
+user_32,ict,Topic 10 Emerging Technologies,4,1755025311
+user_32,ict,Topic 4 Databases,1,1755025292
+user_32,ict,Topic 2 Software,1,1755025814
+user_32,ict,Topic 9 AI,1,1755025008
+user_32,ict,Topic 7 Multimedia,3,1755025648
+user_33,biology,Unit 3 Respiration,5,1755025421
+user_33,biology,Unit 4 Photosynthesis,4,1755025222
+user_33,biology,Unit 10 Homeostasis,4,1755025629
+user_33,biology,Unit 5 Genetics,2,1755025175
+user_33,biology,Unit 2 Enzymes,4,1755025390
+user_33,biology,Unit 8 Plant Transport,1,1755025740
+user_33,chemistry,Unit 4 Stoichiometry,5,1755025176
+user_33,chemistry,Unit 8 Acids and Bases,3,1755025318
+user_33,chemistry,Unit 7 Equilibria,2,1755025453
+user_33,chemistry,Unit 10 Organic Chemistry,1,1755025253
+user_33,chemistry,Unit 1 Atomic Structure,4,1755025525
+user_33,chemistry,Unit 2 Periodic Table,3,1755025596
+user_33,chemistry,Unit 5 Energetics,4,1755025610
+user_33,chemistry,Unit 9 Redox,4,1755025586
+user_33,chemistry,Unit 6 Kinetics,1,1755025341
+user_33,chemistry,Unit 3 Bonding,3,1755025850
+user_33,business,Chapter 10 Innovation,2,1755025297
+user_33,business,Chapter 3 Finance,1,1755025172
+user_33,business,Chapter 5 Human Resources,3,1755025695
+user_33,business,Chapter 8 Ethics,2,1755025508
+user_33,business,Chapter 7 External Environment,4,1755025413
+user_33,business,Chapter 1 Business Activity,5,1755025126
+user_33,business,Chapter 2 Marketing,5,1755025377
+user_33,business,Chapter 4 Operations,4,1755025175
+user_33,business,Chapter 6 Business Growth,4,1755025635
+user_33,ict,Topic 3 Networks,3,1755025959
+user_33,ict,Topic 9 AI,1,1755025481
+user_33,ict,Topic 10 Emerging Technologies,2,1755025184
+user_33,ict,Topic 4 Databases,4,1755025971
+user_33,ict,Topic 8 Programming,5,1755025502
+user_33,ict,Topic 2 Software,4,1755025403
+user_33,ict,Topic 5 Security,4,1755025410
+user_33,ict,Topic 7 Multimedia,4,1755025485
+user_33,ict,Topic 6 Internet,2,1755025069
+user_33,ict,Topic 1 Hardware,5,1755025016
+user_34,biology,Unit 5 Genetics,4,1755025564
+user_34,biology,Unit 1 Cells,4,1755025547
+user_34,biology,Unit 10 Homeostasis,5,1755025100
+user_34,biology,Unit 2 Enzymes,5,1755025101
+user_34,biology,Unit 8 Plant Transport,3,1755025778
+user_34,biology,Unit 3 Respiration,5,1755025828
+user_34,biology,Unit 7 Immunity,3,1755025540
+user_34,chemistry,Unit 8 Acids and Bases,3,1755025880
+user_34,chemistry,Unit 9 Redox,1,1755025445
+user_34,chemistry,Unit 4 Stoichiometry,3,1755025341
+user_34,chemistry,Unit 10 Organic Chemistry,1,1755025434
+user_34,chemistry,Unit 1 Atomic Structure,1,1755025779
+user_34,chemistry,Unit 2 Periodic Table,2,1755025199
+user_34,business,Chapter 6 Business Growth,5,1755025536
+user_34,business,Chapter 7 External Environment,2,1755025316
+user_34,business,Chapter 3 Finance,3,1755025281
+user_34,business,Chapter 5 Human Resources,5,1755025258
+user_34,business,Chapter 2 Marketing,5,1755025906
+user_34,business,Chapter 10 Innovation,1,1755025123
+user_34,business,Chapter 9 Strategic Management,4,1755025925
+user_34,business,Chapter 1 Business Activity,1,1755025268
+user_34,business,Chapter 4 Operations,2,1755025703
+user_34,business,Chapter 8 Ethics,2,1755025240
+user_34,ict,Topic 6 Internet,4,1755025369
+user_34,ict,Topic 4 Databases,4,1755025062
+user_34,ict,Topic 7 Multimedia,1,1755025397
+user_34,ict,Topic 9 AI,5,1755025752
+user_34,ict,Topic 2 Software,3,1755025696
+user_34,ict,Topic 5 Security,3,1755025450
+user_34,ict,Topic 3 Networks,4,1755025320
+user_35,biology,Unit 1 Cells,4,1755025829
+user_35,biology,Unit 2 Enzymes,2,1755025491
+user_35,biology,Unit 8 Plant Transport,3,1755025315
+user_35,biology,Unit 6 Ecology,3,1755025330
+user_35,biology,Unit 7 Immunity,5,1755025576
+user_35,biology,Unit 3 Respiration,2,1755025564
+user_35,biology,Unit 10 Homeostasis,4,1755025792
+user_35,biology,Unit 5 Genetics,3,1755025900
+user_35,biology,Unit 9 Human Transport,1,1755025032
+user_35,biology,Unit 4 Photosynthesis,1,1755025626
+user_35,chemistry,Unit 1 Atomic Structure,3,1755025147
+user_35,chemistry,Unit 2 Periodic Table,3,1755025080
+user_35,chemistry,Unit 3 Bonding,3,1755025241
+user_35,chemistry,Unit 4 Stoichiometry,1,1755025365
+user_35,chemistry,Unit 7 Equilibria,2,1755025038
+user_35,chemistry,Unit 10 Organic Chemistry,4,1755025625
+user_35,chemistry,Unit 6 Kinetics,3,1755025728
+user_35,chemistry,Unit 5 Energetics,2,1755025424
+user_35,chemistry,Unit 8 Acids and Bases,1,1755025705
+user_35,business,Chapter 1 Business Activity,2,1755025516
+user_35,business,Chapter 4 Operations,4,1755024994
+user_35,business,Chapter 8 Ethics,1,1755025697
+user_35,business,Chapter 10 Innovation,3,1755025821
+user_35,business,Chapter 2 Marketing,1,1755025865
+user_35,business,Chapter 5 Human Resources,4,1755025695
+user_35,ict,Topic 8 Programming,3,1755025361
+user_35,ict,Topic 2 Software,3,1755025125
+user_35,ict,Topic 4 Databases,4,1755025777
+user_35,ict,Topic 10 Emerging Technologies,2,1755025641
+user_35,ict,Topic 1 Hardware,2,1755025055
+user_35,ict,Topic 6 Internet,5,1755025561
+user_35,ict,Topic 5 Security,1,1755025609
+user_36,biology,Unit 8 Plant Transport,5,1755025688
+user_36,biology,Unit 6 Ecology,4,1755025865
+user_36,biology,Unit 4 Photosynthesis,2,1755025073
+user_36,biology,Unit 9 Human Transport,1,1755025128
+user_36,biology,Unit 7 Immunity,1,1755025588
+user_36,biology,Unit 2 Enzymes,4,1755025344
+user_36,biology,Unit 10 Homeostasis,4,1755025307
+user_36,chemistry,Unit 4 Stoichiometry,1,1755025853
+user_36,chemistry,Unit 5 Energetics,3,1755025195
+user_36,chemistry,Unit 2 Periodic Table,5,1755025606
+user_36,chemistry,Unit 8 Acids and Bases,5,1755025178
+user_36,chemistry,Unit 9 Redox,4,1755025287
+user_36,chemistry,Unit 6 Kinetics,1,1755025787
+user_36,chemistry,Unit 3 Bonding,2,1755025491
+user_36,business,Chapter 2 Marketing,2,1755025381
+user_36,business,Chapter 4 Operations,5,1755025415
+user_36,business,Chapter 8 Ethics,3,1755025544
+user_36,business,Chapter 6 Business Growth,2,1755025766
+user_36,business,Chapter 5 Human Resources,4,1755025962
+user_36,business,Chapter 1 Business Activity,1,1755025002
+user_36,business,Chapter 7 External Environment,5,1755025054
+user_36,business,Chapter 10 Innovation,1,1755025253
+user_36,business,Chapter 3 Finance,2,1755025025
+user_36,ict,Topic 7 Multimedia,4,1755025418
+user_36,ict,Topic 9 AI,4,1755025069
+user_36,ict,Topic 5 Security,5,1755025535
+user_36,ict,Topic 6 Internet,5,1755025141
+user_36,ict,Topic 10 Emerging Technologies,3,1755025070
+user_36,ict,Topic 8 Programming,3,1755025065
+user_37,biology,Unit 4 Photosynthesis,1,1755025235
+user_37,biology,Unit 3 Respiration,1,1755025931
+user_37,biology,Unit 6 Ecology,4,1755025103
+user_37,biology,Unit 10 Homeostasis,4,1755025611
+user_37,biology,Unit 5 Genetics,5,1755025041
+user_37,biology,Unit 1 Cells,3,1755025667
+user_37,biology,Unit 9 Human Transport,2,1755025107
+user_37,biology,Unit 7 Immunity,1,1755025709
+user_37,biology,Unit 2 Enzymes,2,1755025703
+user_37,biology,Unit 8 Plant Transport,1,1755025152
+user_37,chemistry,Unit 6 Kinetics,1,1755025328
+user_37,chemistry,Unit 9 Redox,4,1755025263
+user_37,chemistry,Unit 5 Energetics,5,1755025050
+user_37,chemistry,Unit 2 Periodic Table,3,1755025714
+user_37,chemistry,Unit 3 Bonding,5,1755025627
+user_37,chemistry,Unit 7 Equilibria,1,1755025493
+user_37,chemistry,Unit 10 Organic Chemistry,4,1755025508
+user_37,chemistry,Unit 4 Stoichiometry,3,1755025041
+user_37,chemistry,Unit 1 Atomic Structure,4,1755025864
+user_37,business,Chapter 3 Finance,1,1755025235
+user_37,business,Chapter 6 Business Growth,1,1755025468
+user_37,business,Chapter 10 Innovation,3,1755025377
+user_37,business,Chapter 8 Ethics,2,1755025168
+user_37,business,Chapter 1 Business Activity,1,1755025551
+user_37,business,Chapter 5 Human Resources,4,1755025214
+user_37,business,Chapter 9 Strategic Management,3,1755025239
+user_37,business,Chapter 4 Operations,4,1755025922
+user_37,business,Chapter 7 External Environment,3,1755025262
+user_37,business,Chapter 2 Marketing,1,1755025570
+user_37,ict,Topic 2 Software,1,1755025883
+user_37,ict,Topic 9 AI,4,1755025871
+user_37,ict,Topic 1 Hardware,3,1755025777
+user_37,ict,Topic 10 Emerging Technologies,3,1755025320
+user_37,ict,Topic 7 Multimedia,1,1755025551
+user_37,ict,Topic 5 Security,4,1755024993
+user_37,ict,Topic 8 Programming,3,1755025190
+user_37,ict,Topic 6 Internet,3,1755025562
+user_38,biology,Unit 10 Homeostasis,5,1755025763
+user_38,biology,Unit 4 Photosynthesis,2,1755025139
+user_38,biology,Unit 8 Plant Transport,1,1755025939
+user_38,biology,Unit 3 Respiration,4,1755025009
+user_38,biology,Unit 5 Genetics,2,1755025539
+user_38,biology,Unit 9 Human Transport,3,1755025636
+user_38,biology,Unit 2 Enzymes,1,1755025958
+user_38,biology,Unit 7 Immunity,3,1755024986
+user_38,chemistry,Unit 5 Energetics,3,1755025080
+user_38,chemistry,Unit 2 Periodic Table,1,1755025928
+user_38,chemistry,Unit 4 Stoichiometry,2,1755025903
+user_38,chemistry,Unit 10 Organic Chemistry,5,1755025407
+user_38,chemistry,Unit 9 Redox,3,1755025454
+user_38,chemistry,Unit 8 Acids and Bases,1,1755025579
+user_38,chemistry,Unit 7 Equilibria,1,1755025502
+user_38,chemistry,Unit 1 Atomic Structure,2,1755025637
+user_38,chemistry,Unit 3 Bonding,4,1755025061
+user_38,business,Chapter 10 Innovation,3,1755025310
+user_38,business,Chapter 1 Business Activity,4,1755025263
+user_38,business,Chapter 7 External Environment,2,1755025061
+user_38,business,Chapter 6 Business Growth,2,1755025124
+user_38,business,Chapter 2 Marketing,5,1755025096
+user_38,business,Chapter 8 Ethics,2,1755025093
+user_38,business,Chapter 3 Finance,2,1755025445
+user_38,business,Chapter 5 Human Resources,4,1755025306
+user_38,business,Chapter 4 Operations,4,1755025108
+user_38,business,Chapter 9 Strategic Management,5,1755025351
+user_38,ict,Topic 8 Programming,3,1755025831
+user_38,ict,Topic 5 Security,5,1755025026
+user_38,ict,Topic 10 Emerging Technologies,2,1755025840
+user_38,ict,Topic 3 Networks,3,1755025136
+user_38,ict,Topic 1 Hardware,1,1755025713
+user_38,ict,Topic 6 Internet,2,1755025976
+user_38,ict,Topic 2 Software,3,1755025390
+user_39,biology,Unit 1 Cells,4,1755025089
+user_39,biology,Unit 5 Genetics,2,1755025109
+user_39,biology,Unit 9 Human Transport,1,1755025048
+user_39,biology,Unit 7 Immunity,2,1755025118
+user_39,biology,Unit 2 Enzymes,2,1755025828
+user_39,biology,Unit 10 Homeostasis,4,1755025366
+user_39,biology,Unit 4 Photosynthesis,1,1755025581
+user_39,biology,Unit 6 Ecology,5,1755025250
+user_39,biology,Unit 8 Plant Transport,1,1755025007
+user_39,biology,Unit 3 Respiration,1,1755025187
+user_39,chemistry,Unit 3 Bonding,4,1755025493
+user_39,chemistry,Unit 2 Periodic Table,1,1755025376
+user_39,chemistry,Unit 6 Kinetics,4,1755025161
+user_39,chemistry,Unit 1 Atomic Structure,3,1755025204
+user_39,chemistry,Unit 7 Equilibria,2,1755025266
+user_39,chemistry,Unit 4 Stoichiometry,3,1755025441
+user_39,chemistry,Unit 8 Acids and Bases,2,1755025020
+user_39,chemistry,Unit 5 Energetics,5,1755025619
+user_39,chemistry,Unit 9 Redox,5,1755025236
+user_39,business,Chapter 8 Ethics,4,1755025189
+user_39,business,Chapter 7 External Environment,5,1755025240
+user_39,business,Chapter 10 Innovation,5,1755025798
+user_39,business,Chapter 1 Business Activity,1,1755025376
+user_39,business,Chapter 9 Strategic Management,3,1755025476
+user_39,business,Chapter 3 Finance,5,1755025785
+user_39,business,Chapter 4 Operations,4,1755025337
+user_39,business,Chapter 6 Business Growth,5,1755025499
+user_39,ict,Topic 7 Multimedia,3,1755025044
+user_39,ict,Topic 5 Security,4,1755025527
+user_39,ict,Topic 3 Networks,3,1755025770
+user_39,ict,Topic 1 Hardware,5,1755025223
+user_39,ict,Topic 8 Programming,2,1755025087
+user_39,ict,Topic 9 AI,2,1755025657
+user_39,ict,Topic 2 Software,2,1755025257
+user_39,ict,Topic 10 Emerging Technologies,5,1755025820
+user_40,biology,Unit 4 Photosynthesis,2,1755025591
+user_40,biology,Unit 7 Immunity,3,1755025810
+user_40,biology,Unit 6 Ecology,3,1755025920
+user_40,biology,Unit 9 Human Transport,5,1755025013
+user_40,biology,Unit 2 Enzymes,3,1755025955
+user_40,biology,Unit 8 Plant Transport,5,1755025562
+user_40,chemistry,Unit 10 Organic Chemistry,1,1755025077
+user_40,chemistry,Unit 4 Stoichiometry,1,1755025223
+user_40,chemistry,Unit 8 Acids and Bases,5,1755025209
+user_40,chemistry,Unit 5 Energetics,1,1755025524
+user_40,chemistry,Unit 3 Bonding,4,1755024985
+user_40,chemistry,Unit 2 Periodic Table,3,1755025924
+user_40,chemistry,Unit 9 Redox,5,1755025191
+user_40,business,Chapter 6 Business Growth,1,1755025851
+user_40,business,Chapter 3 Finance,5,1755025866
+user_40,business,Chapter 10 Innovation,3,1755025968
+user_40,business,Chapter 1 Business Activity,1,1755025367
+user_40,business,Chapter 7 External Environment,4,1755025585
+user_40,business,Chapter 2 Marketing,1,1755025329
+user_40,business,Chapter 5 Human Resources,3,1755025315
+user_40,ict,Topic 3 Networks,2,1755025666
+user_40,ict,Topic 7 Multimedia,5,1755025819
+user_40,ict,Topic 8 Programming,2,1755025372
+user_40,ict,Topic 6 Internet,3,1755025736
+user_40,ict,Topic 10 Emerging Technologies,3,1755025115
+user_40,ict,Topic 2 Software,2,1755025731
+user_40,ict,Topic 9 AI,1,1755025956
+user_41,biology,Unit 7 Immunity,2,1755025324
+user_41,biology,Unit 1 Cells,1,1755025228
+user_41,biology,Unit 3 Respiration,3,1755025312
+user_41,biology,Unit 5 Genetics,2,1755025636
+user_41,biology,Unit 8 Plant Transport,1,1755025826
+user_41,biology,Unit 10 Homeostasis,3,1755025442
+user_41,biology,Unit 2 Enzymes,1,1755025256
+user_41,biology,Unit 6 Ecology,2,1755025240
+user_41,biology,Unit 9 Human Transport,1,1755025343
+user_41,biology,Unit 4 Photosynthesis,3,1755025790
+user_41,chemistry,Unit 1 Atomic Structure,2,1755025890
+user_41,chemistry,Unit 10 Organic Chemistry,4,1755025489
+user_41,chemistry,Unit 7 Equilibria,4,1755025344
+user_41,chemistry,Unit 4 Stoichiometry,5,1755025369
+user_41,chemistry,Unit 6 Kinetics,1,1755025833
+user_41,chemistry,Unit 8 Acids and Bases,4,1755025792
+user_41,business,Chapter 4 Operations,1,1755025335
+user_41,business,Chapter 3 Finance,2,1755025894
+user_41,business,Chapter 8 Ethics,4,1755025149
+user_41,business,Chapter 1 Business Activity,1,1755025545
+user_41,business,Chapter 7 External Environment,1,1755025331
+user_41,business,Chapter 9 Strategic Management,5,1755025613
+user_41,business,Chapter 6 Business Growth,4,1755025706
+user_41,business,Chapter 2 Marketing,1,1755025426
+user_41,business,Chapter 5 Human Resources,2,1755025606
+user_41,business,Chapter 10 Innovation,4,1755025145
+user_41,ict,Topic 2 Software,5,1755025256
+user_41,ict,Topic 6 Internet,3,1755025289
+user_41,ict,Topic 4 Databases,2,1755025083
+user_41,ict,Topic 10 Emerging Technologies,1,1755025387
+user_41,ict,Topic 8 Programming,5,1755025547
+user_41,ict,Topic 5 Security,4,1755025142
+user_42,biology,Unit 6 Ecology,4,1755025189
+user_42,biology,Unit 1 Cells,1,1755025011
+user_42,biology,Unit 7 Immunity,2,1755025159
+user_42,biology,Unit 9 Human Transport,3,1755025985
+user_42,biology,Unit 3 Respiration,1,1755025469
+user_42,biology,Unit 5 Genetics,1,1755025300
+user_42,chemistry,Unit 8 Acids and Bases,4,1755025363
+user_42,chemistry,Unit 10 Organic Chemistry,2,1755025441
+user_42,chemistry,Unit 5 Energetics,1,1755025254
+user_42,chemistry,Unit 1 Atomic Structure,4,1755025461
+user_42,chemistry,Unit 6 Kinetics,3,1755025216
+user_42,chemistry,Unit 9 Redox,3,1755025562
+user_42,chemistry,Unit 4 Stoichiometry,1,1755025139
+user_42,chemistry,Unit 7 Equilibria,1,1755025072
+user_42,chemistry,Unit 2 Periodic Table,3,1755025812
+user_42,business,Chapter 7 External Environment,4,1755025291
+user_42,business,Chapter 4 Operations,1,1755025389
+user_42,business,Chapter 1 Business Activity,1,1755025499
+user_42,business,Chapter 10 Innovation,5,1755025907
+user_42,business,Chapter 9 Strategic Management,5,1755025804
+user_42,business,Chapter 5 Human Resources,5,1755025678
+user_42,business,Chapter 6 Business Growth,5,1755025135
+user_42,business,Chapter 3 Finance,1,1755025957
+user_42,business,Chapter 2 Marketing,4,1755025162
+user_42,business,Chapter 8 Ethics,2,1755025980
+user_42,ict,Topic 4 Databases,2,1755025839
+user_42,ict,Topic 3 Networks,5,1755025249
+user_42,ict,Topic 1 Hardware,3,1755025917
+user_42,ict,Topic 10 Emerging Technologies,1,1755025074
+user_42,ict,Topic 8 Programming,4,1755025554
+user_42,ict,Topic 7 Multimedia,4,1755025550
+user_42,ict,Topic 2 Software,3,1755025862
+user_43,biology,Unit 9 Human Transport,4,1755025138
+user_43,biology,Unit 8 Plant Transport,2,1755025565
+user_43,biology,Unit 1 Cells,5,1755025581
+user_43,biology,Unit 7 Immunity,1,1755025932
+user_43,biology,Unit 6 Ecology,1,1755025561
+user_43,biology,Unit 5 Genetics,1,1755025789
+user_43,biology,Unit 4 Photosynthesis,3,1755025873
+user_43,biology,Unit 10 Homeostasis,5,1755025886
+user_43,chemistry,Unit 7 Equilibria,2,1755025267
+user_43,chemistry,Unit 5 Energetics,4,1755025132
+user_43,chemistry,Unit 10 Organic Chemistry,5,1755025608
+user_43,chemistry,Unit 6 Kinetics,4,1755025024
+user_43,chemistry,Unit 4 Stoichiometry,4,1755025895
+user_43,chemistry,Unit 9 Redox,3,1755025692
+user_43,chemistry,Unit 8 Acids and Bases,2,1755025035
+user_43,chemistry,Unit 1 Atomic Structure,4,1755025927
+user_43,business,Chapter 6 Business Growth,1,1755025980
+user_43,business,Chapter 1 Business Activity,2,1755025122
+user_43,business,Chapter 10 Innovation,3,1755025982
+user_43,business,Chapter 7 External Environment,4,1755025777
+user_43,business,Chapter 3 Finance,3,1755025260
+user_43,business,Chapter 8 Ethics,4,1755025604
+user_43,business,Chapter 5 Human Resources,1,1755025177
+user_43,business,Chapter 2 Marketing,4,1755025201
+user_43,ict,Topic 8 Programming,5,1755025398
+user_43,ict,Topic 9 AI,2,1755025784
+user_43,ict,Topic 6 Internet,5,1755025885
+user_43,ict,Topic 7 Multimedia,5,1755025014
+user_43,ict,Topic 1 Hardware,2,1755025182
+user_43,ict,Topic 5 Security,2,1755025842
+user_43,ict,Topic 2 Software,1,1755025240
+user_43,ict,Topic 10 Emerging Technologies,1,1755025452
+user_43,ict,Topic 4 Databases,1,1755025925
+user_44,biology,Unit 4 Photosynthesis,1,1755025682
+user_44,biology,Unit 5 Genetics,1,1755025232
+user_44,biology,Unit 6 Ecology,3,1755025485
+user_44,biology,Unit 7 Immunity,5,1755025441
+user_44,biology,Unit 10 Homeostasis,2,1755025968
+user_44,biology,Unit 9 Human Transport,4,1755025585
+user_44,biology,Unit 8 Plant Transport,5,1755025343
+user_44,biology,Unit 3 Respiration,3,1755025152
+user_44,chemistry,Unit 2 Periodic Table,2,1755025678
+user_44,chemistry,Unit 5 Energetics,2,1755025260
+user_44,chemistry,Unit 1 Atomic Structure,4,1755025510
+user_44,chemistry,Unit 4 Stoichiometry,1,1755025870
+user_44,chemistry,Unit 8 Acids and Bases,1,1755025470
+user_44,chemistry,Unit 10 Organic Chemistry,2,1755025647
+user_44,chemistry,Unit 9 Redox,2,1755025600
+user_44,chemistry,Unit 6 Kinetics,1,1755025214
+user_44,business,Chapter 10 Innovation,2,1755025462
+user_44,business,Chapter 5 Human Resources,3,1755025678
+user_44,business,Chapter 9 Strategic Management,5,1755025829
+user_44,business,Chapter 4 Operations,5,1755025391
+user_44,business,Chapter 7 External Environment,5,1755025089
+user_44,business,Chapter 3 Finance,1,1755025508
+user_44,business,Chapter 6 Business Growth,3,1755025559
+user_44,business,Chapter 2 Marketing,5,1755025608
+user_44,ict,Topic 5 Security,3,1755025656
+user_44,ict,Topic 2 Software,3,1755025177
+user_44,ict,Topic 8 Programming,2,1755025514
+user_44,ict,Topic 1 Hardware,2,1755025906
+user_44,ict,Topic 3 Networks,1,1755025809
+user_44,ict,Topic 6 Internet,5,1755025398
+user_44,ict,Topic 10 Emerging Technologies,3,1755025682
+user_44,ict,Topic 9 AI,2,1755025723
+user_45,biology,Unit 8 Plant Transport,1,1755025582
+user_45,biology,Unit 5 Genetics,5,1755025820
+user_45,biology,Unit 9 Human Transport,2,1755025336
+user_45,biology,Unit 4 Photosynthesis,2,1755025687
+user_45,biology,Unit 7 Immunity,5,1755025638
+user_45,biology,Unit 6 Ecology,4,1755025913
+user_45,chemistry,Unit 9 Redox,1,1755025467
+user_45,chemistry,Unit 5 Energetics,2,1755025743
+user_45,chemistry,Unit 3 Bonding,3,1755025727
+user_45,chemistry,Unit 7 Equilibria,5,1755025766
+user_45,chemistry,Unit 6 Kinetics,2,1755025954
+user_45,chemistry,Unit 10 Organic Chemistry,3,1755025655
+user_45,chemistry,Unit 2 Periodic Table,1,1755025212
+user_45,chemistry,Unit 4 Stoichiometry,3,1755025213
+user_45,business,Chapter 7 External Environment,4,1755025039
+user_45,business,Chapter 6 Business Growth,5,1755025579
+user_45,business,Chapter 9 Strategic Management,5,1755025057
+user_45,business,Chapter 3 Finance,4,1755025895
+user_45,business,Chapter 5 Human Resources,2,1755025497
+user_45,business,Chapter 10 Innovation,1,1755025873
+user_45,business,Chapter 4 Operations,4,1755025527
+user_45,business,Chapter 1 Business Activity,3,1755025408
+user_45,ict,Topic 3 Networks,4,1755025131
+user_45,ict,Topic 10 Emerging Technologies,3,1755025868
+user_45,ict,Topic 4 Databases,2,1755025782
+user_45,ict,Topic 9 AI,1,1755025484
+user_45,ict,Topic 8 Programming,3,1755025631
+user_45,ict,Topic 5 Security,2,1755025305
+user_46,biology,Unit 1 Cells,2,1755025486
+user_46,biology,Unit 8 Plant Transport,1,1755025117
+user_46,biology,Unit 5 Genetics,5,1755025429
+user_46,biology,Unit 2 Enzymes,4,1755025398
+user_46,biology,Unit 7 Immunity,4,1755025973
+user_46,biology,Unit 9 Human Transport,4,1755025377
+user_46,chemistry,Unit 1 Atomic Structure,3,1755025760
+user_46,chemistry,Unit 9 Redox,5,1755025180
+user_46,chemistry,Unit 4 Stoichiometry,1,1755025677
+user_46,chemistry,Unit 6 Kinetics,1,1755025626
+user_46,chemistry,Unit 3 Bonding,2,1755025216
+user_46,chemistry,Unit 10 Organic Chemistry,3,1755025304
+user_46,business,Chapter 2 Marketing,3,1755025451
+user_46,business,Chapter 7 External Environment,5,1755025595
+user_46,business,Chapter 5 Human Resources,5,1755025330
+user_46,business,Chapter 10 Innovation,4,1755025894
+user_46,business,Chapter 1 Business Activity,2,1755025335
+user_46,business,Chapter 6 Business Growth,4,1755025352
+user_46,business,Chapter 3 Finance,2,1755025153
+user_46,ict,Topic 1 Hardware,1,1755025360
+user_46,ict,Topic 4 Databases,1,1755025369
+user_46,ict,Topic 9 AI,3,1755025774
+user_46,ict,Topic 6 Internet,5,1755025623
+user_46,ict,Topic 2 Software,1,1755025593
+user_46,ict,Topic 7 Multimedia,1,1755025662
+user_46,ict,Topic 10 Emerging Technologies,1,1755025654
+user_46,ict,Topic 3 Networks,1,1755025034
+user_46,ict,Topic 8 Programming,1,1755025411
+user_47,biology,Unit 7 Immunity,3,1755025415
+user_47,biology,Unit 2 Enzymes,1,1755025663
+user_47,biology,Unit 5 Genetics,5,1755025261
+user_47,biology,Unit 4 Photosynthesis,5,1755025605
+user_47,biology,Unit 6 Ecology,2,1755025413
+user_47,biology,Unit 9 Human Transport,1,1755025508
+user_47,biology,Unit 8 Plant Transport,5,1755025105
+user_47,biology,Unit 3 Respiration,3,1755025101
+user_47,biology,Unit 1 Cells,1,1755025494
+user_47,chemistry,Unit 10 Organic Chemistry,4,1755025287
+user_47,chemistry,Unit 4 Stoichiometry,2,1755025025
+user_47,chemistry,Unit 5 Energetics,5,1755025493
+user_47,chemistry,Unit 7 Equilibria,2,1755025689
+user_47,chemistry,Unit 8 Acids and Bases,4,1755025323
+user_47,chemistry,Unit 2 Periodic Table,2,1755024987
+user_47,chemistry,Unit 3 Bonding,1,1755025672
+user_47,business,Chapter 2 Marketing,1,1755025911
+user_47,business,Chapter 8 Ethics,3,1755025644
+user_47,business,Chapter 3 Finance,2,1755025452
+user_47,business,Chapter 1 Business Activity,3,1755025255
+user_47,business,Chapter 5 Human Resources,4,1755025036
+user_47,business,Chapter 7 External Environment,1,1755025817
+user_47,ict,Topic 1 Hardware,1,1755025082
+user_47,ict,Topic 5 Security,1,1755024994
+user_47,ict,Topic 6 Internet,2,1755025664
+user_47,ict,Topic 7 Multimedia,2,1755025321
+user_47,ict,Topic 8 Programming,3,1755025900
+user_47,ict,Topic 3 Networks,4,1755025963
+user_47,ict,Topic 4 Databases,5,1755025259
+user_48,biology,Unit 6 Ecology,4,1755025263
+user_48,biology,Unit 10 Homeostasis,4,1755025691
+user_48,biology,Unit 3 Respiration,4,1755025804
+user_48,biology,Unit 1 Cells,4,1755025649
+user_48,biology,Unit 4 Photosynthesis,2,1755025100
+user_48,biology,Unit 9 Human Transport,2,1755025697
+user_48,chemistry,Unit 3 Bonding,4,1755025170
+user_48,chemistry,Unit 2 Periodic Table,5,1755025373
+user_48,chemistry,Unit 7 Equilibria,3,1755025611
+user_48,chemistry,Unit 5 Energetics,1,1755025868
+user_48,chemistry,Unit 4 Stoichiometry,2,1755025479
+user_48,chemistry,Unit 8 Acids and Bases,4,1755025100
+user_48,business,Chapter 8 Ethics,3,1755025516
+user_48,business,Chapter 1 Business Activity,5,1755025689
+user_48,business,Chapter 2 Marketing,5,1755025082
+user_48,business,Chapter 3 Finance,4,1755025662
+user_48,business,Chapter 6 Business Growth,2,1755025478
+user_48,business,Chapter 7 External Environment,3,1755025664
+user_48,business,Chapter 9 Strategic Management,4,1755025137
+user_48,business,Chapter 5 Human Resources,5,1755025898
+user_48,business,Chapter 4 Operations,5,1755025040
+user_48,ict,Topic 3 Networks,1,1755025754
+user_48,ict,Topic 9 AI,4,1755025313
+user_48,ict,Topic 8 Programming,2,1755025323
+user_48,ict,Topic 7 Multimedia,3,1755025036
+user_48,ict,Topic 4 Databases,5,1755025213
+user_48,ict,Topic 2 Software,5,1755025643
+user_49,biology,Unit 7 Immunity,4,1755025308
+user_49,biology,Unit 4 Photosynthesis,1,1755025494
+user_49,biology,Unit 2 Enzymes,1,1755025090
+user_49,biology,Unit 9 Human Transport,4,1755025407
+user_49,biology,Unit 10 Homeostasis,1,1755025555
+user_49,biology,Unit 5 Genetics,5,1755024985
+user_49,biology,Unit 6 Ecology,1,1755025795
+user_49,biology,Unit 1 Cells,5,1755025971
+user_49,biology,Unit 8 Plant Transport,5,1755025637
+user_49,chemistry,Unit 9 Redox,1,1755025821
+user_49,chemistry,Unit 10 Organic Chemistry,2,1755025849
+user_49,chemistry,Unit 4 Stoichiometry,4,1755025324
+user_49,chemistry,Unit 6 Kinetics,5,1755025770
+user_49,chemistry,Unit 7 Equilibria,5,1755025599
+user_49,chemistry,Unit 8 Acids and Bases,4,1755025718
+user_49,chemistry,Unit 3 Bonding,3,1755025718
+user_49,chemistry,Unit 2 Periodic Table,4,1755025101
+user_49,business,Chapter 4 Operations,5,1755025519
+user_49,business,Chapter 1 Business Activity,3,1755025703
+user_49,business,Chapter 6 Business Growth,1,1755025031
+user_49,business,Chapter 3 Finance,2,1755025489
+user_49,business,Chapter 8 Ethics,2,1755025826
+user_49,business,Chapter 7 External Environment,4,1755025094
+user_49,ict,Topic 10 Emerging Technologies,3,1755025095
+user_49,ict,Topic 4 Databases,4,1755025032
+user_49,ict,Topic 9 AI,5,1755025111
+user_49,ict,Topic 1 Hardware,4,1755025453
+user_49,ict,Topic 8 Programming,5,1755025964
+user_49,ict,Topic 2 Software,5,1755025122
+user_49,ict,Topic 6 Internet,4,1755024989
+user_49,ict,Topic 7 Multimedia,5,1755025738
+user_50,biology,Unit 9 Human Transport,2,1755025733
+user_50,biology,Unit 7 Immunity,2,1755025091
+user_50,biology,Unit 8 Plant Transport,4,1755025658
+user_50,biology,Unit 5 Genetics,5,1755025605
+user_50,biology,Unit 2 Enzymes,3,1755025501
+user_50,biology,Unit 10 Homeostasis,4,1755025413
+user_50,chemistry,Unit 4 Stoichiometry,5,1755025866
+user_50,chemistry,Unit 5 Energetics,3,1755025713
+user_50,chemistry,Unit 7 Equilibria,5,1755025632
+user_50,chemistry,Unit 3 Bonding,2,1755025190
+user_50,chemistry,Unit 8 Acids and Bases,2,1755025624
+user_50,chemistry,Unit 10 Organic Chemistry,3,1755025688
+user_50,chemistry,Unit 2 Periodic Table,3,1755025928
+user_50,chemistry,Unit 1 Atomic Structure,2,1755025712
+user_50,chemistry,Unit 9 Redox,2,1755025500
+user_50,chemistry,Unit 6 Kinetics,5,1755025695
+user_50,business,Chapter 2 Marketing,1,1755025520
+user_50,business,Chapter 6 Business Growth,1,1755025010
+user_50,business,Chapter 8 Ethics,4,1755025133
+user_50,business,Chapter 5 Human Resources,1,1755025671
+user_50,business,Chapter 7 External Environment,1,1755025189
+user_50,business,Chapter 4 Operations,3,1755025753
+user_50,business,Chapter 3 Finance,2,1755025278
+user_50,business,Chapter 10 Innovation,3,1755025134
+user_50,ict,Topic 5 Security,5,1755025873
+user_50,ict,Topic 4 Databases,5,1755025870
+user_50,ict,Topic 1 Hardware,2,1755025745
+user_50,ict,Topic 3 Networks,5,1755025383
+user_50,ict,Topic 9 AI,2,1755025508
+user_50,ict,Topic 8 Programming,3,1755025694
